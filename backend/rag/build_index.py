@@ -8,7 +8,7 @@ from urllib.parse import quote
 
 import numpy as np
 
-import config as C
+import backend.rag.config as C
 
 BLOCKED = ("has been blocked", "Web Page Blocked")
 
@@ -142,7 +142,7 @@ def main():
     for i, c in enumerate(chunks):
         c["id"] = i  # ids uniques (l'ancien fichier avait des doublons)
 
-    from engine import Embedder
+    from backend.rag.engine import Embedder
     vecs = Embedder().encode_passages([c["text"] for c in chunks])
     C.INDEX_DIR.mkdir(parents=True, exist_ok=True)
     C.CHUNKS_OUT.write_text(json.dumps(chunks, ensure_ascii=False, indent=1), encoding="utf-8")

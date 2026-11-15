@@ -8,7 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from pydantic import BaseModel, Field
 
-import config as C
+import backend.rag.config as C
 
 state = {}
 
@@ -17,9 +17,9 @@ state = {}
 async def lifespan(app):
     if not (C.CHUNKS_OUT.exists() and C.VECTORS_OUT.exists()):  # premier demarrage : on construit l'index
         print("Index absent -> construction automatique...")
-        import build_index
+        import backend.rag.build_index as build_index
         build_index.main()
-    from engine import RAG
+    from backend.rag.engine import RAG
     state["rag"] = RAG()
     yield
 

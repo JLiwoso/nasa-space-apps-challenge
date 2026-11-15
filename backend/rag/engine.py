@@ -7,7 +7,7 @@ import time
 import numpy as np
 import requests
 
-import config as C
+import backend.rag.config as C
 
 
 class Embedder:

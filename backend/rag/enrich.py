@@ -8,7 +8,7 @@ import time
 
 import requests
 
-import config as C
+import backend.rag.config as C
 
 API = "https://api.openalex.org/works"
 

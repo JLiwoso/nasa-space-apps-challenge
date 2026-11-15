@@ -5,7 +5,7 @@ import sys
 
 import uvicorn
 
-import config as C
+import backend.rag.config as C
 
 
 def main():
@@ -18,7 +18,7 @@ def main():
         print("! GROQ_API_KEY absente : bascule sur Ollama (doit tourner en local).")
     if not C.ABSTRACTS_FILE.exists():
         try:
-            import enrich
+            import backend.rag.enrich as enrich
             enrich.main()
         except Exception as e:
             print(f"(enrichissement ignore : {e})")
