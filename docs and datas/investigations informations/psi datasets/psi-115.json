@@ -1,0 +1,100 @@
+{
+  "investigation_id": "PSI-115",
+  "title": null,
+  "source": "NASA PSI",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+  "discipline": "Combustion Science",
+  "description": "The formation and growth of dibutyl-phthalate (DBP) particles in Earth gravity and microgravity environments was simulated. Direct numerical simulation via a Navier-Stokes nodal approach was utlilized. The smoke originates from pyrolysis vapor expelled from a heated sample in a geometry similar to that considered in the SAME experiments. This study considered two cross-flow velocities of sufficiently low speed that buoyancy cannot be neglected in the presence of gravity. Simulations are presented to assess the dependence of particle size distributions on thermophoresis, particle settling, and flow geometry. The final report for this investigation introduces the simulation and modeling methodology, followed by a description of the flow geometry and the parameter space under consideration.The differences in the wake geometry attributable to buoyancy for the lower of two flow speeds was examined. Instantaneous scalar fields were used to describe particle accumulation and growth in the buoyant and non-buoyant wakes that form downstream of the hot vapor source.",
+  "investigation_type": "Ground Investigation",
+  "resources": [
+    {
+      "name": "No associated hardware",
+      "category": "Hardware",
+      "format": null,
+      "url": null,
+      "file_size": null,
+      "downloadable": false,
+      "description": "Hardware used by this investigation (reference to its PSI page)"
+    },
+    {
+      "name": "Investigation Metadata Files",
+      "category": "Investigation Metadata Files",
+      "format": "folder",
+      "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Folder in the 'Data files and documents' section of the investigation page; its contents are browsed online, not downloaded."
+    },
+    {
+      "name": "Analyzed Data",
+      "category": "Analyzed Data",
+      "format": "folder",
+      "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Folder in the 'Data files and documents' section of the investigation page; its contents are browsed online, not downloaded."
+    },
+    {
+      "name": "Reports",
+      "category": "Reports",
+      "format": "folder",
+      "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Folder in the 'Data files and documents' section of the investigation page; its contents are browsed online, not downloaded."
+    },
+    {
+      "name": "Science Documents",
+      "category": "Science Documents",
+      "format": "folder",
+      "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Folder in the 'Data files and documents' section of the investigation page; its contents are browsed online, not downloaded."
+    }
+  ],
+  "version": null,
+  "data_type": null,
+  "total_size": "252.16 MB",
+  "submitted_date": "18-Sep-2024",
+  "initial_release_date": "18-Sep-2024",
+  "doi": "10.60555/q0v5-1v28",
+  "doi_url": "https://doi.org/10.60555/q0v5-1v28",
+  "research_area": "Combustion Science",
+  "sub_research_area": "Smoke Aerosol, Combustion Simulation",
+  "license": "CC0-1.0",
+  "license_url": "https://spdx.org/licenses/CC0-1.0.html",
+  "project": {
+    "project_type": "Ground Investigation",
+    "proposal_title": null,
+    "flight_platform": "Not Applicable",
+    "sponsoring_agency": "National Aeronautics and Space Administration (NASA), PSI Grant",
+    "nasa_center": "Glenn Research Center (GRC)"
+  },
+  "objectives": "The objective of this investigation was to use numerical simulation to explore the influence of gravity on pyrolysis smoke growth from a fundamental perspective. The intention of this effort is to quantify the differences between microgravity and Earth gravity smoke, and to identify the fluid dynamic mechanisms that cause the differences.",
+  "hypothesis": "Without buoyancy, mixing and heat transfer are reduced, the time-temperature history of the combustion vapors (or particle precursors) and particle trajectories are significantly altered, changing the composition of the smoke. The chemical composition of the burning material also affects the characteristics of the smoke generated.",
+  "research_impacts_earth_benefits": "Models and tools that characterize particles generated as smoke can be used to ascertain how temperature, gravity, and material properties affect the smoke produced. This would directly lead to better smoke detection devices and prevent fires that can lead to loss of materiel and loss of life.",
+  "contacts": [
+    "Sean Garrickemail",
+    "Michael Hicksemail",
+    "table_view"
+  ],
+  "experimental_table": {
+    "available": false,
+    "total_rows": null,
+    "columns": []
+  },
+  "modeling_table_available": false,
+  "read_me_available": false,
+  "version_history": [
+    {
+      "version": "3",
+      "updated_date": "02-Jun-2025",
+      "changes": "Additional documentation release",
+      "files_added": 47
+    }
+  ],
+  "collection_notes": [
+    "Title not found"
+  ]
+}

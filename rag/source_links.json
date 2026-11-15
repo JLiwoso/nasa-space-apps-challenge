@@ -1,0 +1,12 @@
+{
+  "_aide": "Renseigne ici les vrais liens publics. Les valeurs vides sont ignorees.",
+  "pdf_urls": {
+    "burning and suppression of solids bass.pdf": "",
+    "advanced combustion via microgravity experiments acme.pdf": "",
+    "A Researcher’s Guide to International Space Station Combustion Science.pdf": ""
+  },
+  "psi_titles": {
+    "PSI-25": "BASS-II (Burning and Suppression of Solids II)",
+    "PSI-26": "BASS (Burning and Suppression of Solids)"
+  }
+}

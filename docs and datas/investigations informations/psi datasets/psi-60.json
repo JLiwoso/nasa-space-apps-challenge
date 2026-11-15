@@ -1,0 +1,83 @@
+{
+  "investigation_id": "PSI-60",
+  "title": null,
+  "source": "NASA PSI",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-60",
+  "discipline": "Combustion Science",
+  "description": "The approach was to combine image processing, experimental diagnostics, and detailed soot modeling. Raw Nikon NEF images were decoded into three color channels and analyzed using color-ratio pyrometry to extract soot temperature fields. Absolute light calibration from SPICE was then used to calculate soot volume fractions. For computational modeling, a coupled flow–species–soot system was implemented, modified to include radiation re-absorption and discrete-sectional aggregate formation. Simulations were performed for both Yale and ACME burner configurations under normal and microgravity conditions. Comparisons between experimental data and computed results guided sensitivity analyses of soot evolution parameters, including the effects of radiation, scattering, boundary conditions, and heat transfer to the burner structure.",
+  "investigation_type": "Ground Investigation",
+  "resources": [
+    {
+      "name": "No associated hardware",
+      "category": "Hardware",
+      "format": null,
+      "url": null,
+      "file_size": null,
+      "downloadable": false,
+      "description": "Hardware used by this investigation (reference to its PSI page)"
+    },
+    {
+      "name": "Investigation Metadata Files",
+      "category": "Investigation Metadata Files",
+      "format": "folder",
+      "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-60",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Folder in the 'Data files and documents' section of the investigation page; its contents are browsed online, not downloaded."
+    },
+    {
+      "name": "A Combined Experimental and Computational Study of Soot Formation in Normal and Microgravity Conditions (2022)",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1080/00102202.2022.2041621",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Dobbins Richard R., Tinjero Jesse, Squeo Joseph, Zhao Xinyu, Hall Robert J., Colket Meredith B., Long Marshall B., Smooke Mitchell D.. DOI: 10.1080/00102202.2022.2041621."
+    }
+  ],
+  "version": null,
+  "data_type": null,
+  "total_size": "7.56 KB",
+  "submitted_date": "29-Aug-2022",
+  "initial_release_date": "30-Sep-2025",
+  "doi": "10.60555/mzjm-yv57",
+  "doi_url": "https://doi.org/10.60555/mzjm-yv57",
+  "research_area": "Combustion Science",
+  "sub_research_area": "Gaseous",
+  "license": "CC0-1.0",
+  "license_url": "https://spdx.org/licenses/CC0-1.0.html",
+  "project": {
+    "project_type": "Ground Investigation",
+    "proposal_title": "Computational and Experimental Analysis of SPICE Data Sets",
+    "flight_platform": null,
+    "sponsoring_agency": "National Aeronautics and Space Administration (NASA), PSI grant",
+    "nasa_center": "Glenn Research Center (GRC)"
+  },
+  "objectives": "This ground investigation sought to increase understanding of the issues that control the large discrepancy between soot formation in 1g and in 0g flames. The objective of this investigation was to integrate computational and experimental methods to derive temperature distributions and soot volume fractions from the Smoke Point in Coflow Experiment (SPICE) data available in PSI. By analyzing over 1600 raw DSLR images and incorporating advanced soot models, the study sought to improve understanding of soot formation, oxidation, radiative re-absorption, and aggregate growth in heavily sooting flames. The work further aimed to reconcile microgravity and normal gravity flame behavior, identify key physical and chemical processes influencing smoke point development, and provide a framework for evaluating model parameter sensitivity.",
+  "hypothesis": "Microgravity conditions would produce longer, more diffuse flames with lower temperatures and increased soot concentrations compared to normal gravity, and that careful integration of experimental temperature fields into the simulations would reduce discrepancies between measured and predicted soot distributions.",
+  "research_impacts_earth_benefits": "This study sought to enhance understanding of soot formation, flame structure, and radiative transport under microgravity and normal gravity, improving predictive models for combustion in both spacecraft and terrestrial systems. For space applications, the results support safer fire detection, suppression, and cleaner combustion technologies critical for long-duration missions. On Earth, the insights help reduce pollutant emissions, optimize combustion efficiency, and inform the design of cleaner energy and industrial systems.",
+  "contacts": [
+    "Mitchell D. Smookeemail",
+    "Marshall B. Longemail",
+    "Daniel L. Dietrichemail",
+    "table_view"
+  ],
+  "experimental_table": {
+    "available": false,
+    "total_rows": null,
+    "columns": []
+  },
+  "modeling_table_available": false,
+  "read_me_available": false,
+  "version_history": [
+    {
+      "version": "1",
+      "updated_date": "30-Sep-2025",
+      "changes": "New data release",
+      "files_added": 1
+    }
+  ],
+  "collection_notes": [
+    "Title not found"
+  ]
+}

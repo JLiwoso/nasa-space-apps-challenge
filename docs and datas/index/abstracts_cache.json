@@ -1,0 +1,837 @@
+{
+ "Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire), 45th International Conference on Environmental Systems ICES-2015-[293] 12-16 July 2015, Bellevue, Washington": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "The Spacecraft Fire Experiment (Saffire) - Objectives, Development and Status": {
+  "abstract": "Since 2012, the Spacecraft Fire Experiment (Saffire) has been under development by the Spacecraft Fire Safety Demonstration (SFS Demo) project that is funded by NASA's Advanced Exploration Systems Division in the Human Exploration and Operations Mission Directorate. The overall objective of this project is to reduce the uncertainty and risk associated with the design of spacecraft fire safety systems for NASA's exploration missions. This is accomplished by defining, developing, and conducting experiments that address gaps in spacecraft fire safety knowledge and capabilities identified by NASA's Fire Safety System Maturation Team. This paper describes the three Spacecraft Fire Experiments (Saffire-I, -II, and -III) that were developed at NASA-GRC and that will conduct a series of material flammability tests in low-gravity and at length scales that are realistic for a spacecraft fire. The experiments will be conducted in Orbital ATK's Cygnus vehicle after it has unberthed from the International Space Station. The tests will be fully automated with the data downlinked at the conclusion of the test and before the Cygnus vehicle reenters the atmosphere. The objectives of these experiments are to (1) determine how rapidly a large scale fire grows in low-gravity and (2) investigate the low-g flammability limits compared to those obtained in NASA's normal gravity material flammability screening test. The hardware for these experiments has been completed and is awaiting their respective launches, all planned for 2016. This paper will review the objectives of these experiments and how they address several of the knowledge gaps for NASA's exploration missions. The hardware development will be discussed including several novel approaches that were taken for testing and evaluation of these series payloads. The status of the missions and operational status will also be presented.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2601400959"
+ },
+ "Operation and Development Status of the Spacecraft Fire Experiments (Saffire), 46th International Conference on Environmental Systems (ICES), July 2016": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Measurement of Smoke Particle Size under Low-Gravity Conditions": {
+  "abstract": "Smoke detection experiments were conducted in the Microgravity Science Glovebox (MSG) on the International Space Station (ISS) during Expedition 15 in an experiment entitled Smoke Aerosol Measurement Experiment (SAME). The preliminary results from these experiments are presented. In order to simulate detection of a prefire overheated-material event, samples of five different materials were heated to temperatures below the ignition point. The smoke generation conditions were controlled to provide repeatable sample surface temperatures and air flow conditions. The smoke properties were measured using particulate aerosol diagnostics that measure different moments of the size distribution. These statistics were combined to determine the count mean diameter which can be used to describe the overall smoke distribution.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2260132099"
+ },
+ "Properties of Smoke from Overheated Spacecraft Materials in Low-Gravity": {
+  "abstract": "Smoke particle size measurements were obtained under low-gravity conditions by overheating several materials typical of those found in spacecraft. The measurements included integral measurements of the smoke particles and physical sample of the particles for Transmission Electron Microscope analysis. The integral moments were combined to obtain geometric mean particle sizes and geometric standard deviations. These results are presented with the details of the instrument calibrations. The experimental results show that, for the materials tested, a substantial portion of the smoke particles are below 500 nm in diameter.",
+  "match": "title",
+  "openalex": "https://openalex.org/W1981845628"
+ },
+ "Smoke Particle Sizes in Low-Gravity and Implications for Spacecraft Smoke Detector Design": {
+  "abstract": "This paper presents results from a smoke detection experiment entitled Smoke Aerosol Measurement Experiment (SAME) which was conducted in the Microgravity Science Glovebox on the International Space Station (ISS) during Expedition 15. Five different materials representative of those found in spacecraft were pyrolyzed at temperatures below the ignition point with conditions controlled to provide repeatable sample surface temperatures and air flow conditions. The sample materials were Teflon®, Kapton®, cellulose, silicone rubber and dibutylphthalate. The transport time from the smoke source to the detector was simulated by holding the smoke in an aging chamber for times ranging from 10 to1800 seconds. Smoke particle samples were collected on Transmission Electron Microscope (TEM) grids for post-flight analysis. The smoke particle size distributions were measured using three particulate aerosol diagnostics that measure different moments of the size distribution and smoke detectors from the ISS and the space shuttle, These diagnostics were used to estimate the particle number concentration (zeroth moment), the diameter concentration (first moment) and the mass concentration (third moment), These values were combined to estimate the diameter of average mass, the count mean diameter, the geometric mean diameter and the geometric standard deviation. Even though the analysis of these data is ongoing, information from the various instruments and the calculated mean particle sizes has important implications for the design of spacecraft smoke detectors. These implications are reviewed in this paper relative to the operating principles of existing smoke detection technology, These results can be used to establish design requirements for smoke detectors for future spacecraft.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W1585706378"
+ },
+ "Spacecraft Fire Detection: Smoke Properties and Transport in Low-Gravity": {
+  "abstract": "Results from a recent smoke particle size measurement experiment conducted on the International Space Station (ISS) are presented along with the results from a model of the transport of smoke in the ISS. The experimental results show that, for the materials tested, a substantial portion of the smoke particles are below 500 nm in diameter. The smoke transport model demonstrated that mixing dominates the smoke transport and that consequently detection times are longer than in normal gravity.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2007261543"
+ },
+ "ISS Destiny Laboratory Smoke Detection Model": {
+  "abstract": "Smoke transport and detection were modeled numerically in the ISS Destiny module using the NIST, Fire Dynamics Simulator code. The airflows in Destiny were modeled using the existing flow conditions and the module geometry included obstructions that simulate the currently installed hardware on orbit. The smoke source was modeled as a 0.152 by 0.152 m region that emitted smoke particulate ranging from 1.46 to 8.47 mg/s. In the module domain, the smoke source was placed in the center of each Destiny rack location and the model was run to determine the time required for the two smoke detectors to alarm. Overall the detection times were dominated by the circumferential flow, the axial flow from the intermodule ventilation and the smoke source strength.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W1556498722"
+ },
+ "Smoke: Characterization of Smoke Particulate for Spacecraft Fire Detection, Seventh International Microgravity Combustion Workshop": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Smoke: Characterization of Smoke Particulate for Spacecraft Fire Detection": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Characterization of Nuisance Particulates in the ISS: Space Smoke Aerosols and Lunar Dust Abatement": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2167072576"
+ },
+ "Combustion Research on the International Space Station": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Detection of Smoke from Microgravity Fires": {
+  "abstract": "The history and current status of spacecraft smoke detection is discussed including a review of the state of understanding of the effect of gravity on the resultant smoke particle size. The results from a spacecraft experiment (Comparative Soot Diagnostics (CSD)) which measured microgravity smoke particle sizes are presented. Five different materials were tested producing smokes with different properties including solid aerosol smokes and liquid droplets aerosol smokes. The particulate size distribution for the solid particulate smokes increased substantially in microgravity and the results suggested a corresponding increase for the smokes consisting of a liquid aerosol. A planned follow on experiment that will resolve the issues raised by CSD is presented. Early results from this effort have provided the first measurements of the ambient aerosol environment on the ISS (International Space Station) and suggest that the ISS has very low ambient particle levels.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2266757133"
+ },
+ "A Research Plan for Fire Prevention, Detection and Suppression in Crewed Exploration Systems": {
+  "abstract": "Fire is a particularly critical danger in future extraterrestrial vehicles and habitats on long-range, long-duration missions since, unlike in most scenarios here on Earth, escape is not an option and the fire department will not be coming. In such vehicles and habitats, the first line of defense lies in determining the ignitability and flammability of candidate materials under reduced and microgravity conditions and at appropriate oxygen mole fractions and then using this information to help select materials to be used in these vehicles and habitats. If, despite our efforts to prevent a fire, one does occur, our next line of protection is fast and reliable detection of such occurrences (with minimum false positives) and definition of their locations. After a fire and its location have been identified, we must have reliable means of extinguishing this fire as quickly as possible with as little impact to the mission and crew as possible. Finally, post-fire cleanup, toxicology of fire products and products of the interaction of the flame with the extinguishant, and virtual simulation training of the crew in fighting fires are also important areas which must be addressed by the research plan presented in this paper.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2326759479"
+ },
+ "Pyrolysis Smoke Generated Under Low-Gravity Conditions": {
+  "abstract": "A series of smoke experiments were carried out in the Microgravity Science Glovebox on the International Space Station (ISS) Facility to assess the impact of low-gravity conditions on the properties of the smoke aerosol. The smokes were generated by heating five different materials commonly used in space vehicles. This study focuses on the effects of flow and heating temperature for low-gravity conditions on the pyrolysis rate, the smoke plume structure, the smoke yield, the average particle size, and particle structure. Low-gravity conditions allowed a unique opportunity to study the smoke plume for zero external flow without the complication of buoyancy. The diameter of average mass increased on average by a factor of 1.9 and the morphology of the smoke changed from agglomerate with flow to spherical at no flow for one material. The no flow case is an important scenario in spacecraft where smoke could be generated by the overheating of electronic components in confined spaces. From electron microcopy of samples returned to earth, it was found that the smoke can form an agglomerate shape as well as a spherical shape, which had previously been the assumed shape. A possible explanation for the shape of the smoke generated by each material is presented.Copyright 2015 American Association for Aerosol Research",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2150573701"
+ },
+ "Smoke Characterization and Feasibility of the Moment Method for Spacecraft Fire Detection": {
+  "abstract": "The Smoke Aerosol Measurement Experiment (SAME) has been conducted twice by the National Aeronautics and Space Administration and provided real-time aerosol data in a spacecraft micro-gravity environment. Flight experiment results have been recently analyzed with respect to comparable ground-based experiments. The ground tests included an electrical mobility analyzer as a reference instrument for measuring particle size distributions of the smoke produced from overheating five common spacecraft materials. Repeatable sample surface temperatures were obtained with the SAME ground-based hardware, and measurements were taken with the aerosol instruments returned from the International Space Station comprising two commercial smoke detectors, three aerosol instruments, which measure moments of the particle size distribution, and a thermal precipitator for collecting smoke particles for transmission electron microscopy (TEM). Moment averages from the particle number concentration (zeroth moment), the diameter concentration (first moment), and the mass concentration (third moment) allowed calculation of the count mean diameter and the diameter of average mass of smoke particles. Additional size distribution information, including geometric mean diameter and geometric standard deviations, can be calculated if the particle size distribution is assumed to be lognormal. Both unaged and aged smoke particle size distributions from ground experiments were analyzed to determine the validity of the lognormal assumption. Comparisons are made between flight experiment particle size distribution statistics generated by moment calculations and microscopy particle size distributions (using projected area equivalent diameter) from TEM grids, which have been returned to the Earth.Copyright 2015 American Association for Aerosol Research",
+  "match": "doi",
+  "openalex": "https://openalex.org/W1981452162"
+ },
+ "Evaluation of spacecraft smoke detector performance in the low-gravity environment": {
+  "abstract": null,
+  "match": "title",
+  "openalex": "https://openalex.org/W2802487676"
+ },
+ "The Microgravity Science Glovebox (MSG), a Resource for Gravity-Dependent Phenomena Research on the International Space Station (ISS)": {
+  "abstract": "The Microgravity Science Glovebox (MSG) is a double rack facility aboard the International Space Station (ISS) designed for gravity-dependent phenomena investigation handling. The MSG has been operating in the ISS US Laboratory Module since July 2002. The MSG facility provides an enclosed working area for investigation manipulation and observation in the ISS. The MSG s unique design provides two levels of containment to protect the ISS crew from hazardous operations. Research investigations operating inside the MSG are provided a large 255 liter work volume, 1000 watts of dc power via a versatile supply interface (120,28, +/-12, and 5 Vdc), 1000 watts of cooling capability, video and data recording and real time downlink, ground commanding capabilities, access to ISS Vacuum Exhaust and Vacuum Resource Systems, and gaseous nitrogen supply. With these capabilities, the MSG is an ideal platform for research required to advance the technology readiness levels (TRL) needed for the Crew Exploration Vehicle and the Exploration Initiative. Areas of research that will benefit from investigations in the MSG include thermal management, fluid physics, spacecraft fire safety, materials science, combustion and reacting control systems, in situ fabrication and repair, and advanced life support technologies. This paper will provide a detailed explanation of the MSG facility, a synopsis of the research that has already been accomplished in the MSG, an overview of investigations planning to operate in the MSG, and possible augmentations that can be added to the MSG facility to further enhance the resources provided to investigations.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2051180553"
+ },
+ "AN OVERVIEW OF THE MICROGRAVITY SCIENCE GLOVEBOX (MSG) FACILITY, AND THE GRAVITY-DEPENDENT PHENOMENARESEARCH PERFORMED IN THE MSG ON THE INTERNATIONAL SPACE STATION (ISS)": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Laminar Smoke Points in Coflow Measured Aboard the International Space Station": {
+  "abstract": "Laminar smoke points were measured in nonbuoyant laminar jet diffusion flames in coflowing air aboard the International Space Station as part of the Smoke Point in Coflow Experiment. Smoke points were found for ethylene, propane, propylene, and mixtures of 50% and 75% propylene by volume in nitrogen. Burner diameters were 0.41, 0.76, and 1.6 mm and coflow velocities varied from 5.4 – 65 cm/s. These flames afford unprecedented control over residence time via variations in dilution, burner diameter, and coflow velocity. Increasing coflow velocity decreases luminous flame lengths, but yields longer smoke points. Smaller burners also yield longer smoke points. These trends can be explained qualitatively by considering residence time and radiative loss effects. The luminous flame lengths generally correlate with fuel mass flow rate divided by stoichiometric mixture fraction, although they increase slightly for conditions with high fuel to coflow velocity ratios.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2326355221"
+ },
+ "Scaling of Gas-Jet Flame Lengths in Elevated Gravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W185064426"
+ },
+ "The Microgravity Science Glovebox as a Platform for Exploration Research on the International Space Station": {
+  "abstract": "The Microgravity Science Glovebox (MSG) is a double rack facility aboard the International Space Station (ISS) designed for microgravity investigation handling. The MSG has been operating in the ISS US Laboratory Module since July 2002. The MSG facility provides an enclosed working area for investigation manipulation and observation in the ISS. The MSG's unique design provides two levels of containment to protect the ISS crew from hazardous operations. Research investigations operating inside the MSG are provided a large 255 liter work volume, 1000 watts of dc power via a versatile supply interface (120, 28, + 12, and 5 Vdc), 1000 watts of cooling capability, video and data recording and real time downlink, ground commanding capabilities, access to ISS Vacuum Exhaust and Vacuum Resource Systems, and gaseous nitrogen supply. With these capabilities, the MSG is an ideal platform for research required to advance the technology readiness levels (TRL) needed for the Crew Exploration Vehicle and the Exploration Initiative. Areas of research that will benefit from investigations in the MSG include thermal management, fluid physics, spacecraft fire safety, materials science, combustion and reacting control systems, in situ fabrication and repair, and advanced life support technologies. This paper will provide a detailed explanation of the MSG facility along with a synopsis of the research that has already been accomplished in the MSG and an overview of possible MSG investigations that will be needed to support the Exploration Initiative.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2328550473"
+ },
+ "A Combined Experimental and Computational Study of Soot Formation in Normal and Microgravity Conditions": {
+  "abstract": "In this paper, we consider a combined experimental and computational study of sooting, ethylene-air, laminar, coflow diffusion flames under normal and microgravity conditions. Two different burner configurations (Yale and ACME) are studied. Microgravity experiments are performed aboard the International Space Station. Computed simulations for both configurations under 1 g and 0 g conditions support previous experimental and modeling conclusions that at 0 g, the flame is lengthened, becomes broader and more diffuse, temperatures decrease and soot levels and gas residence times increase. However, in the case of the smaller ACME flame, these effects are significantly diminished. In an effort to assess the cause of the differences between the experimental and computational results at the two gravity levels, we perturbed a variety of model parameters associated with soot evolution to observe their effects on the simulation results. We also investigated the effects of radiation and its re-absorption. The results of the study indicate that it is likely that the model inadequately predicts the thermal field and the use of experimental temperatures imposed onto the solution would provide more accurate simulations of the soot field and heat transfer to the burner lip could alter the boundary conditions of the flames and hence the subsequent solutions.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W4220752226"
+ },
+ "Shapes of nonbuoyant round hydrocarbon-fueled laminar-jet diffusion flames in still air": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2063017872"
+ },
+ "Shapes of nonbuoyant round luminous hydrocarbon/air laminar jet diffusion flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2041402028"
+ },
+ "Smoke Points of Microgravity and Normal Gravity Coflow Diffusion": {
+  "abstract": "Smoke points were measured in microgravity aboard the International Space Station (ISS) as part of the Smoke Points in Coflow Experiment (SPICE), and in normal gravity conditions. In microgravity conditions increasing the coflow velocity or decreasing the burner diameter increased the smoke point flame length. A simplified prediction of centerline jet velocity did not yield residence-time-based criticalities or data collapse. Simulation of non-reacting flows showed that the simplified centerline velocity prediction was able to predict velocity decay for only relatively weak coflows. An improved model may yield different results. In normal earth gravity coflow velocity exhibited mixed effects. For burner diameters of 0.41, 0.76, and 1.6 mm, smoke points increased with increases of coflow velocity. For an unconfined coflow burner with a burner diameter of 13.7 mm smoke point length decreased with increasing coflow velocity for ethylene and propylene, while increasing for propane flames.",
+  "match": "title",
+  "openalex": "https://openalex.org/W119315264"
+ },
+ "Laminar smoke points of coflowing flames in microgravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2000085147"
+ },
+ "Extinction characteristics of isolated n-alkane fuel droplets during low temperature cool flame burning in air (2023)": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W4295009127"
+ },
+ "Sub-millimeter sized multi-component jet fuel surrogate droplet combustion: Physicochemical preferential vaporization effects (2021)": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W3087150144"
+ },
+ "Initial diameter effects on combustion of unsupported equi-volume n-heptane/iso-octane mixture droplets and the transition to cool flame behavior: Experimental observations and detailed numerical modeling (2020)": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W3040662641"
+ },
+ "Oscillatory cool flame combustion behavior of submillimeter sized n-alkane droplet under near limit conditions (2019)": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2811332089"
+ },
+ "Investigating the role of preferential vaporization during submillimeter sized multicomponent jet fuel surrogate droplet combustion (2019)": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Multi-component jet fuel surrogate droplet combustion: Preferential vaporization behaviors under spray relevant conditions and effects on combustion behaviors (2019)": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Cool Flame Combustion of Sub-Millimeter Sized Higher n-Alkane Droplets at Atmospheric Condition (2017)": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Non-Premixed - Partially Premixed to Diffusive Burning: Initial Transient of Direct Cool Flame Burn (2017)": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Oscillatory Cool Flame Combustion Behavior of Submillimeter Sized n-Alkane Droplet under Near Limit Conditions (2018)": {
+  "abstract": null,
+  "match": "title",
+  "openalex": "https://openalex.org/W2811332089"
+ },
+ "Dynamics of cool flames (2019)": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2966831305"
+ },
+ "Dynamics of cool flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2966831305"
+ },
+ "The radical index and the effect of oxygen concentration on non-premixed cool flame extinction of large n-alkanes": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W3158185723"
+ },
+ "On the propagation limits and speeds of premixed cool flames at elevated pressures": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2584964245"
+ },
+ "Study of the low-temperature reactivity of large n-alkanes through cool diffusion flame extinction": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2593599667"
+ },
+ "Counterflow flame experiments and chemical kinetic modeling of dimethyl ether/methane mixtures": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2809396997"
+ },
+ "Low-temperature multistage warm diffusion flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2798097421"
+ },
+ "Dynamics and burning limits of near-limit hot, warm, and cool diffusion flames of dimethyl ether at elevated pressures": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2886611190"
+ },
+ "On the chemical characteristics and dynamics of n-alkane low-temperature multistage diffusion flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2884952103"
+ },
+ "Quantitative measurements of HO 2 /H 2 O 2 and intermediate species in low and intermediate temperature oxidation of dimethyl ether": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2057620171"
+ },
+ "SUPPLEMENTARY MATERIAL The radical index and the effect of oxygen concentration on non-premixed cool flame extinction of large n-alkanes": {
+  "abstract": null,
+  "match": "title",
+  "openalex": "https://openalex.org/W3158185723"
+ },
+ "Pressure and Radiation Effects on the Dynamics of Hot and Cool Diffusion Flames": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Transient interactions between a premixed double flame and a vortex": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2884289554"
+ },
+ "Burning on flat wicks at various orientations": {
+  "abstract": "Burning on flat plates was studied at various orientations with respect to gravity. Flat wicks of ceramic (Kaowool PM) board (10 cm wide and 1–10 cm long) were saturated with methanol or ethanol. Steady flames were obtained that ranged from boundary layer flames to plume-type burning. The onset of unsteady flow and transition to turbulence commenced at Grashof numbers of 10 6 –10 7 , increasing with decreasing angle (toward underside burning). The average burning rate per unit area was recorded along with the flame location. Experiments on polymethylmethacrylate were used for comparison with the liquid-wick results. The results roughly correlated with laminar pure convective theory, and improved results were indicated when the gravity term associated with the pressure gradient normal to the plate was included. Theoretical results by the integral method to reduce the partial differential equations to ordinary differential equations are presented.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2110705258"
+ },
+ "A Gas Burner to Emulate Condensed-Phase Burning": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2317161586"
+ },
+ "Experimental Investigation of Liquid and Gas Fueled Flames Towards the Development of a Burning Rate Emulator (BRE) for Microgravity Applications": {
+  "abstract": "Laminar steady burning on flat plates was studied at various orientations with respect to gravity. Flat wicks were saturated with methanol or ethanol. Steady flames were obtained, and ranged from boundary layer flames to plume-type burning. Maximum burning rate per unit area was recorded at an upward inclination of 30º. Mass flux decreased with increasing wick length for all orientations. Dimensionless correlations, using a Rayleigh number and the orientation angle, collapsed most of the data, but not for the horizontal and vertical cases. The measured heat flux correlated with expected averages based on burning rate data; theoretical results were similar but radiation likely affected the wicks results. Gas burner flame stand-off distances when emulating methanol flames were in reasonable agreement, showing similarities in laminar, onset of turbulent flow, and boundary layer separation. 0g ethanol wick flames from drop tower testing and airplane testing are shown.",
+  "match": "title",
+  "openalex": "https://openalex.org/W165612709"
+ },
+ "Burning in microgravity: Experimental results and analysis": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W3135722420"
+ },
+ "Transient dynamics of radiative extinction in low-momentum microgravity diffusion flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W3048924423"
+ },
+ "Emulation of condensed fuel flames with gaseous fuels supplied through a porous copper calorimeter": {
+  "abstract": "Summary The burning rate emulator (BRE) is a burner that emulates condensed fuel flames using gaseous fuel/inert mixtures by matching four properties: the heat of combustion; the heat of gasification; the laminar smoke point; and the surface temperature. Matching the heat of gasification requires measuring the burner heat flux, for which the BRE has embedded heat flux gauges and a copper top‐plate calorimeter. Seven condensed fuels were emulated: acetone, ethanol, methanol, polyethylene, polymethylmethacrylate, polypropylene, and polystyrene. The gaseous fuels were methane, ethylene, and propylene, diluted with nitrogen. Emulation data and flame images are shown to demonstrate emulation accuracy. A new method of emulation is developed that shifts the focus on which properties are prioritized and yields ~15% improvement in flame height. Calibration and use of the calorimeter are shown to have improved accuracy (within 5%) which provides confidence in the results.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W3081450468"
+ },
+ "Radiative Extinction of Laminar Diffusion Flame above the Flat Porous Burner in Microgravity: A Computational Study": {
+  "abstract": "Abstract Transient dynamics of formation and extinction of methane- and ethylene-fueled flames above the flat porous burner in an oxidizing atmosphere is numerically investigated. The simulated scenarios replicate the experimental conditions of the BRE (Flamenco) project of the ACME program focusing on combustion research in microgravity. The 3D unsteady model includes the multi-step and multi-component chemical mechanisms of fuel oxidation, formation and oxidation of soot, and the radiative transfer. The model is validated for the methane-fueled jet laminar diffusion flame in normal gravity and for the ethylene flame developing in short-duration free-fall microgravity in the drop tower. The microgravity flames are then simulated at longer times, and the range of fuel mass fluxes characteristic of solid and liquid combustibles is explored. In all the cases considered, combustion is essentially unsteady, in spite of the constant fuel supply rate. During the initial stage of flame growth, the temperature in the reaction zone persistently decreases due to the radiative losses down to the level causing local extinction, oscillations, and complete extinguishment of the flame. The effect of fuel type and mass flux at the burner surface on the flame lifetime and on its disintegration dynamics is demonstrated. The sensitivity of the results to the chemical mechanism used in the simulations is examined. The radiative fraction in the microgravity flames is found to be by an order of magnitude higher than that in the normal gravity flames produced by the same burner. The radiative losses are shown to be the reason for extinction and instability in the microgravity flames considered in this work.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W3081021065"
+ },
+ "Transient ellipsoidal combustion model for a porous burner in microgravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2988703141"
+ },
+ "Measuring heat flux to a porous burner in microgravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2810688084"
+ },
+ "Analysis of extinction and sustained ignition": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2913713939"
+ },
+ "A Burning Rate Emulator (BRE) for study of condensed fuel burning in microgravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2790308587"
+ },
+ "Study of ignition and extinction of small-scale fires in experiments with an emulating gas burner": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2556304514"
+ },
+ "Emulation of condensed fuel flames with gases in microgravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1414366202"
+ },
+ "Flammability maps for microgravity burning of a small flat material in a quiescent ambient": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W4375867709"
+ },
+ "Demonstrating steady burning for small flat materials in microgravity in a quiescent ambient": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W4308569967"
+ },
+ "Theoretical analysis and predictions of burning in microgravity using a burning emulator": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W3182483026"
+ },
+ "Analysis of CH* concentration and flame heat release rate in laminar coflow diffusion flames under microgravity and normal gravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2293524170"
+ },
+ "Signal-to-noise ratio improvements in laser flow diagnostics using time-resolved image averaging and high dynamic range imaging": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2480897767"
+ },
+ "A computational and experimental study of coflow laminar methane/air diffusion flames: Effects of fuel dilution, inlet velocity, and gravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2070246916"
+ },
+ "Constrained-temperature solutions of coflow laminar diffusion flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W3044018960"
+ },
+ "Effects of pressure and fuel dilution on coflow laminar methane–air diffusion flames: A computational and experimental study": {
+  "abstract": "In this study, the influence of pressure and fuel dilution on the structure and geometry of coflow laminar methane–air diffusion flames is examined. A series of methane-fuelled, nitrogen-diluted flames has been investigated both computationally and experimentally, with pressure ranging from 1.0 to 2.7 atm and CH4 mole fraction ranging from 0.50 to 0.65. Computationally, the MC-Smooth vorticity–velocity formulation was employed to describe the reactive gaseous mixture, and soot evolution was modelled by sectional aerosol equations. The governing equations and boundary conditions were discretised on a two-dimensional computational domain by finite differences, and the resulting set of fully coupled, strongly nonlinear equations was solved simultaneously at all points using a damped, modified Newton's method. Experimentally, chemiluminescence measurements of CH* were taken to determine its relative concentration profile and the structure of the flame front. A thin-filament ratio pyrometry method using a colour digital camera was employed to determine the temperature profiles of the non-sooty, atmospheric pressure flames, while soot volume fraction was quantified, after evaluation of soot temperature, through an absolute light calibration using a thermocouple. For a broad spectrum of flames in atmospheric and elevated pressures, the computed and measured flame quantities were examined to characterise the influence of pressure and fuel dilution, and the major conclusions were as follows: (1) maximum temperature increases with increasing pressure or CH4 concentration; (2) lift-off height decreases significantly with increasing pressure, modified flame length is roughly independent of pressure, and flame radius decreases with pressure approximately as P−1/2; and (3) pressure and fuel stream dilution significantly affect the spatial distribution and the peak value of the soot volume fraction.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2772647243"
+ },
+ "Effect of soot self-absorption on color-ratio pyrometry in laminar coflow diffusion flames": {
+  "abstract": "This Letter reports on the effect of self-absorption on measured temperature for color-ratio soot pyrometry with a color camera. A series of increasingly nitrogen diluted atmospheric pressure ethylene/air laminar coflow diffusion flames are studied, providing flames with different optical path lengths, soot loading, and soot optical properties. Numerical calculations are used to simulate the change in collected flame emission signal with and without light attenuation using experimentally measured maps of the soot absorption coefficient. This parameter implicitly contains information about soot volume fraction and soot optical properties. The ratio of these calculations is used to correct the raw color-channel signals, resulting in temperature maps with improved accuracy. The change in calculated temperature varies spatially within each flame, with the maximum correction quantified to be 22 K for a flame with a maximum optical depth of 0.31. This correction is as much as 42 and 75 K for simulated flames with the same optical properties, structure, and a factor of two and five increase in soot volume fraction, respectively.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2794368601"
+ },
+ "An experimental and computational study of soot formation in a coflow jet flame under microgravity and normal gravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2020338825"
+ },
+ "Absolute light calibration using S-type thermocouples": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1972958755"
+ },
+ "A comparison of Raman signatures and laser-induced incandescence with direct numerical simulation of soot growth in non-premixed ethylene/air flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2067145209"
+ },
+ "Soot and thin-filament pyrometry using a color digital camera": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1998444052"
+ },
+ "IMAGING FLAMES: FROM ADVANCED LASER DIAGNOSTICS TO SNAPSHOTS": {
+  "abstract": "Laser imaging techniques have become productive tools for studying combustion. A variety of laser light scattering mechanisms can be used to measure temperature, species concentrations, and velocities in flames. In addition to giving valuable insight through visualization of the flow, imaging experiments can provide quantitative data that can be used to guide and verify combustion models. Several different approaches will be considered, ranging from a set of multiparameter imaging experiments in a turbulent nonpremixed flame designed to measure reaction rate and scalar dissipation, to measurements of soot in laminar flames. The first set of experiments required simultaneous imaging of four different quantities, using four lasers, while the second was carried out using a consumer digital camera. Data from both types of measurements are valuable for quantitative comparisons with model predictions.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2488128968"
+ },
+ "A paradigm shift in the interaction of experiments and computations in combustion research": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1992338017"
+ },
+ "Computational and experimental investigation of the interaction of soot and NO in coflow diffusion flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2005517177"
+ },
+ "Distributed-memory parallel computation of a forced, time-dependent, sooting, ethylene/air coflow diffusion flame": {
+  "abstract": "Forced, time-varying laminar flames help bridge the gap between laminar and turbulent combustion as they reside in an ever-changing flow environment. A distributed-memory parallel computation of a time-dependent sooting ethylene/air coflow diffusion flame, in which a periodic fluctuation (20 Hz) is imposed on the fuel velocity for four different amplitudes of modulation, is presented. The chemical mechanism involves 66 species, and a soot sectional model is employed with 20 soot sections. The governing equations are discretised using finite differences and solved implicitly using a damped modified Newton's method. The solution proceeds in parallel using strip domain decomposition over 40 central processing units (CPUs) until full periodicity is attained. For forcing amplitudes of 30%, 50%, 70% and 90%, a complete cycle of numerical predictions of the time-resolved soot volume fraction is presented. The 50%, 70% and 90% forcing cases display stretching and pinching off of the sooting region into an isolated oval shape. In the 90% forcing case, a well-defined hollow shell-like structure of the soot volume fraction contours occurs, in which the interior of the isolated sooty region has significantly lower soot concentrations than the shell. Preliminary comparisons are made with experimental measurements of the soot volume fraction for the 50% forcing case. The experimental results are qualitatively consistent with the model predictions.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2012065426"
+ },
+ "Measurements and calculations of formaldehyde concentrations in a methane/N2/air, non-premixed flame: Implications for heat release rate": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1972804948"
+ },
+ "Computational and experimental study of a forced, time-dependent, methane–air coflow diffusion flame": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1975966214"
+ },
+ "Ion Current and Flame Changes with Electric Fields in Microgravity": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Electric Field Induced Changes of a Diffusion Flame and Heat Transfer near an Impinging Surface": {
+  "abstract": "This research investigates heat transfer phenomena on a plate used with impinging electric field flames; i.e., flames burning in the presence of an electric field. Electric field effects on flames have been investigated in different applications but not when the flames are impinging on nearby surfaces. Challenges to measurement methods when an electric field is applied in the system have limited the understanding of changes to the temperature distributions and species concentrations caused by the field. This study uses an infrared forward looking infrared (FLIR) camera with Schlieren visualization to examine the heat flux from flames over an impinging plate with different electric fields applied. In particular, we study the electric field effects on flames when those flames transfer heat to a nearby plate, and then how that transfer can be controlled using the electric field. The results show that electric fields affect substantially the heat flux distribution through the ion-driven wind, particularly when the plate location is just above the flame tip.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2799418996"
+ },
+ "Electrical Aspects of Impinging Flames": {
+  "abstract": "This dissertation examines the use of electric fields as one mechanism for controlling combustion as flames are partially extinguished when impinging on nearby surfaces. Electrical aspects of flames, specifically, the production of chemi-ions in hydrocarbon flames and the use of convective flows driven by these ions, have been investigated in a wide range of applications in prior work but despite this fairly comprehensive effort to study electrical aspects of combustion, relatively little research has focused on electrical phenomena near flame extinguishment, nor for flames near impingement surfaces. Electrical impinging flames have complex properties under global influences of ion-driven winds and flow field disturbances from the impingement surface. Challenges of measurements when an electric field is applied in the system have limited an understanding of changes to the flame behavior and species concentrations caused by the field. This research initially characterizes the ability of high voltage power supplies to respond on sufficiently short time scales to permit real time electrical flame actuation. The study then characterizes the influence of an electric field on the impinging flame shape, ion current and flow field of the thermal plume associated with the flame. The more significant further examinations can be separated into two parts: 1) the potential for using electric fields to control the release of carbon monoxide (CO) from surface-impinging flames, and 2) an investigation of controlling electrically the heat transfer to a plate on which the flame impinges. Carbon monoxide (CO) results from the incomplete oxidation of hydrocarbon fuels and, while CO can be desirable in some syngas processes, it is usually a dangerous emission from forest fires, gas heaters, gas stoves, or furnaces where insufficient oxygen in the core reaction does not fully oxidize the fuel to carbon dioxide and water. Determining how carbon monoxide is released and how heat transfer from the flame to the plate can be controlled using the electric field are the two main goals of this research. Multiple diagnostic techniques are employed such as OH chemiluminescence to identify the reaction zone, OH PLIF to characterize the location of this radical species, CO released from the flame, IR imaging and OH PLIF thermometry to understand the surface and gas temperature distribution, respectively. The principal finding is that carbon monoxide release from an impinging diffusion flame results from the escape of carbon monoxide created on the fuel side of the flame along the boundary layer near the surface where it avoids oxidation by OH, which sits to the air side of the reaction sheet interface. In addition, the plate proximity to the flame has a stronger influence on the emission of toxic carbon monoxide than does the electric field strength. There is, however, a narrow region of burner to surface distance where the electric field is most effective. The results also show that heat transfer can be spatially concentrated effectively using an electric field driven ion wind, particularly at some burner to surface distances.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2520234672"
+ },
+ "The Influence of Electric Field Power Systems on Flame Behavior": {
+  "abstract": null,
+  "match": "title",
+  "openalex": "https://openalex.org/W3098215704"
+ },
+ "Ionization and chemiluminescence during the progressive aeration of methane flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2085453875"
+ },
+ "Modelling electric field driven convection in small combustion plasmas and surrounding gases": {
+  "abstract": "Electric fields applied to flames can be used to impart force directly on the reaction zone and local surroundings due to the presence of flame ions. The resultant electric body force modifies the flow field surrounding the combustion environment. This paper describes a numerical simulation of the flow field of entrained gases and exhaust surrounding a gaseous fuel flame when it is exposed to electric fields by formulating the problem as a unipolar two fluid system (neutrals and positive ions). An analysis, performed at steady state, is verified by comparison to published experimental results (total current, current density profiles, and qualitative flow measurements). The results indicate a complex interaction between the combustion and current discharge environments where the flow field is dominated by the presence of a toroidal vortex structure and the discharge is dominated by space charge effects. In addition, a transient analysis of the flow field is performed, and four fundamental timescales in the system are identified. These timescales are (1) steady state discharge establishment, (2) plume establishment, (3) vortex establishment, and (4) heating of the feed tube. Timescales (1)–(3), being the fastest timescales of the system, are evaluated and compared. The results show good agreement between computational and analytical timescale values.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2023568913"
+ },
+ "Canceling buoyancy of gaseous fuel flames in a gravitational environment using an ion-driven wind.": {
+  "abstract": "Electric fields applied to combustion plasmas can be used to manipulate the thermofluid flow field to reduce buoyant forces and, hence, convection in locations near and within the flame. The resulting flow field is similar to that which is obtained in microgravity. Previous work has shown that buoyancy is modified in a non-premixed methane-air capillary flame when it burns in a capillary-to-plane configuration and an electric field is applied, and that regions of neutral or microbuoyancy exist, as indicated by the examined temperature and oxidizer profiles. The aim of this article is to examine in more detail this microbuoyancy condition and the coupling between the ion wind and resulting thermofluid flow field. To this end, the voltage-current characteristics (VCC) of CH4, C2H2, C2H4, C2H6, and C3H8 are measured and compared. Soot generated in the C2H(X) and propane flames lead to a hysteresis in the VCC curve whereby increased sooting leads to lower ion currents at constant flow rates and applied potentials. Buoyancy regimes for these flames in this configuration are determined. Methane can achieve the highest flow rate without sooting at the microbuoyant condition, and does not exhibit hysteresis in the VCC for the flow rates examined here. Furthermore, in this geometry, the microbuoyant condition for methane is found to coincide with ion current saturation when the capillary-to-plane distance is varied. These results allow for several simplifications to be made when modeling the flame at these conditions: the imposition of a spherical flame boundary with known ion current, and negligible recombination in the domain.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2042168174"
+ },
+ "Detailed characterization of DC electric field effects on small non-premixed flames": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2068099695"
+ },
+ "Microgravity burner-generated spherical diffusion flames: experiment and computation. Currently at Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, OH 44106.": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1560232292"
+ },
+ "PLIF and chemiluminescence in a small laminar coflow methane-air diffusion flame at elevated pressures": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W4221106579"
+ },
+ "Ion current and carbon monoxide release from an impinging methane/air coflow flame in an electric field": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2932552998"
+ },
+ "Non-premixed axisymmetric flames driven by ion currents": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2900487149"
+ },
+ "Impinging nonpremixed coflow methane–air flames with unity Lewis number": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2513478834"
+ },
+ "Characterizing I-V Curves for Non-Premixed Methane Flames Stabilized on Different Burner Configurations": {
+  "abstract": "Ion winds dominate the effects observed when an external electric field is applied to a hydrocarbon flame. Such effects require, however, a sufficient ion source to generate the ion wind. Electric field combustion studies rarely report the rate of ions passing through the system. Current voltage curves, I-V curves, represent how effectively electrical energy is converted into kinetic energy in the flow. This study experimentally obtains I-V curves for different non-premixed burner configurations. The results show that the burner configuration has a significant effect, particularly with field strengths above the saturation point. Increased ion current above saturation and ion current/flame instabilities were observed. Experiments also show that secondary ionization can account for a portion of the increase in ion current, but flame contours point to a stronger correlation with flame geometry and the ability of an ion wind to enhance localized mixing by promoting air entrainment.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2619561929"
+ },
+ "CO emission from an impinging non-premixed flame": {
+  "abstract": null,
+  "match": "title",
+  "openalex": "https://openalex.org/W2527423277"
+ },
+ "Electrical aspects of flame quenching": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2024998383"
+ },
+ "Behavior of a small diffusion flame as an electrically active component in a high-voltage circuit": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2012234689"
+ },
+ "Numerical prediction of ion current from a small methane jet flame": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2032308297"
+ },
+ "Electric field-controlled mesoscale burners": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2050668466"
+ },
+ "Numerical simulation of a tubular ion-driven wind generator": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2033993154"
+ },
+ "Using large electric fields to control transport in microgravity.": {
+  "abstract": "Transport control by large electric fields in microgravity may be subdivided according to whether the charge carriers are flame ions, ions produced by corona discharges, or electrically charged particles. Using electric fields to induce and direct convection through the drag exercised on neutral gas by ions and to manipulate dispersions and trajectories of electrically charged droplets and particles is especially effective in the absence of Earth's gravity. We have explored applications associated with each of these, and this review collects and summarizes briefly the principal findings of our research, which is scattered widely over the literature of combustion, electrostatics, and experimental science.",
+  "match": "title",
+  "openalex": "https://openalex.org/W1965062806"
+ },
+ "Maximizing ion-driven gas flows": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1966619449"
+ },
+ "Inducing gas flow and swirl in tubes using ionic wind from corona discharges": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2032128585"
+ },
+ "Modeling of Elevated Pressure Diffusion Flames with Water Addition": {
+  "abstract": "This work investigates high pressure methane diffusion flames with water addition using PeleLM simulation. Particularly, this research uses a coflow burner under the pressure conditions of previous experiments with no water addition up to 11.1 bar. This work provides a comprehensive preliminary understanding of how combustion changes when water vapor is introduced into the fuel flow from 0% to 60% mole fraction. It provides a detailed temperature, CO, and CO2 concentration distribution using the PeleLM adaptive mesh refinement (AMR) code. The results show that the peak temperature in the flame reduces with water addition and increases with pressure increase. The general conclusion is that the pressure influence dominates over the water addition. This computational result helps to understand the scope of change when water is introduced into the high pressure flow and helps the next step of experiment planning.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W4321601216"
+ },
+ "Electric-field effects on methane coflow flames aboard the international space station (ISS): ACME E-FIELD flames": {
+  "abstract": "This work describes the preparatory and initial measurements of diffusion flames under the influence of an electric field aboard the International Space Station (ISS), as part of the Advanced Combustion via Microgravity Experiments (ACME) project. Intended as the foundation publication for the experimental effort, the work comprehensively includes the space experiment methods, the capabilities of the ACME insert, experiment procedures, data, and limitations and constraints. The measurements presented include images and ion currents of small diffusion flames of methane (in air), subjected to a ramping electric field in microgravity. While there have been prior microgravity studies of Electric Field Effects on Laminar Diffusion Flames (E-FIELD Flames) using a drop tower, the current measurements represent the first mapping of the effects of an ion-driven wind on flame behavior under an electric field in the absence of the confounding influences of buoyancy. The paper describes the challenges of remote measurement and manipulation of flames on the ISS and presents preliminary results from the first set of coflow flames. The on-orbit tests began in March 2018 using the modular ACME hardware within the ISS’ Combustion Integrated Rack (CIR) and were completed in the same year November. The results show that the flame is most compact at saturation while the measured voltage-current characteristic (VCC) curve demonstrates parabolic behavior after saturation which differs from observations in 1 g on Earth.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W4308219422"
+ },
+ "Microgravity flammability boundary for PMMA rods in axial stagnation flow: Experimental results and energy balance analyses": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2601770803"
+ },
+ "Temperature and CO2 fields of a downward spreading flame over thin cellulose: A comparison of experimental and computational results": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2003522254"
+ },
+ "Opposed-flow flame spread: A comparison of microgravity and normal gravity experiments to establish the thermal regime": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2199287261"
+ },
+ "The critical flow velocity for radiative extinction in opposed-flow flame spread in a microgravity environment: A comparison of experimental, computational, and theoretical results": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2198072365"
+ },
+ "Experimental validation of a correlation capturing the boundary layer effect on spread rate in the kinetic regime of opposed-flow flame spread": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1995382574"
+ },
+ "Results from on-board CSA-CP and CDM Sensor Readings during the Burning and Suppression of Solids - II (BASS-II) Experiment in the Microgravity Science Glovebox (MSG)": {
+  "abstract": "For the first time on ISS, BASS-II utilized MSG working volume dilution with gaseous nitrogen (N2).We developed a perfectly stirred reactor model to determine the N2 flow time and flow rate to obtain the desired reduced oxygen concentration in the working volume for each test.We calibrated the model with CSA-CP oxygen readings offset using the Mass Constituents Analyzer reading of the ISS ambient atmosphere data for that day.This worked out extremely well for operations, and added a new vital variable, ambient oxygen level, to our test matrices.The main variables tested in BASS-II were ambient oxygen concentration, ventilation flow velocity, and fuel type, thickness, and geometry.BASS-II also utilized the on-board CSA-CP for oxygen and carbon monoxide readings, and the CDM for carbon dioxide readings before and after each test.Readings from these sensors allow us to evaluate the completeness of the combustion.The oxygen and carbon dioxide readings before and after each test were analyzed and compared very well to stoichiometric ratios for a one step gas-phase reaction.The CO versus CO2 followed a linear trend for some datasets, but not for all the different geometries of fuel and flow tested.We calculated the heat release rates during each test from the oxygen consumption and burn times, using the constant 13.1 kJ of heat released per gram of oxygen consumed.The results showed that the majority of the tests had heat release rates well below 100 Watts.Lastly, the global equivalence ratio for the tests is estimated to be fuel rich: 1.3 on average using mass loss and oxygen consumption data.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2290029593"
+ },
+ "Modeling and Analysis of Intermediate Thickness PMMA Sheets Burning in Microgravity Opposed Flow": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Concurrent flame growth, spread and extinction over composite fabric samples in low speed purely forced flow in microgravity": {
+  "abstract": "As a part of the NASA BASS and BASS-II experimental projects aboard the International Space Station, flame growth, spread and extinction over a composite cotton-fiberglass fabric blend (referred to as the SIBAL fabric) were studied in low-speed concurrent forced flows. The tests were conducted in a small flow duct within the Microgravity Science Glovebox. The fuel samples measured 1.2 and 2.2 cm wide and 10 cm long. Ambient oxygen was varied from 21% down to 16% and flow speed from 40 cm/s down to 1 cm/s. A small flame resulted at low flow, enabling us to observe the entire history of flame development including ignition, flame growth, steady spread (in some cases) and decay at the end of the sample. In addition, by decreasing flow velocity during some of the tests, low-speed flame quenching extinction limits were found as a function of oxygen percentage. The quenching speeds were found to be between 1 and 5 cm/s with higher speed in lower oxygen atmosphere. The shape of the quenching boundary supports the prediction by earlier theoretical models. These long duration microgravity experiments provide a rare opportunity for solid fuel combustion since microgravity time in ground-based facilities is generally not sufficient. This is the first time that a low-speed quenching boundary in concurrent spread is determined in a clean and unambiguous manner.",
+  "match": "title",
+  "openalex": "https://openalex.org/W3178724091"
+ },
+ "Radiative, thermal, and kinetic regimes of opposed-flow flame spread: A comparison between experiment and theory": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2518865430"
+ },
+ "Concurrent flame growth, spread, and quenching over composite fabric samples in low speed purely forced flow in microgravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2495273274"
+ },
+ "A Study of the Effectiveness of a Narrow Channel Apparatus in Simulating Microgravity Flame Spread over Thin Fuels": {
+  "abstract": "NASA’s current flammability testing method for non-metallic solids is NASA-STD-(I)-6001A Test 1. Materials that allow for an upward flame propagation of six inches or more fail the flammability test. The flames in the Earth-based Test 1 are dominated by the upward-flowing buoyant gases, and this is not representative of actual flame behavior in microgravity, where there are no buoyant effects on flames. Scientists at NASA have shown that by spatially confining a horizontally spreading flame in the vertical direction, buoyant forces can be minimized in an Earth-based flame spread test. Results from flammability tests conducted in San Diego State University’s Narrow Channel Apparatus (SDSU NCA) closely match results from NASA’s Narrow Channel Apparatus at 1 atmosphere of pressure and 21% oxygen. The advantage of the SDSU NCA is that it not only minimizes buoyant effects, but it also allows flammability tests to be performed at normoxic equivalent atmospheres that more closely match future spacecraft cabin atmospheres. Normoxic conditions are achieved in the SDSU NCA by varying the total pressure, opposed flow oxidizer velocity, and oxygen concentration in the test channel. In our previous research we measured the flame spread rate across Whatman 44 ashless filter paper at total pressures from .27 to 1.0 atm and oxygen mole fractions from 0.77 to 0.21 respectively, along the normoxic curve for a gap height of 5 mm above and below the thin fuel. Significant differences in the flame spread rate were found, with much higher spread rates at the low pressure/high oxygen concentrations. This paper extends that work by comparing flame spread results from flammability tests conducted on Kimwipes ® in the SDSU NCA and in true microgravity in NASA’s Zero-Gravity Research Facility at several points along the normoxic curve. Also, a scaling analysis is conducted to study the effect of pressure on certain flame length scales.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2136922485"
+ },
+ "BASS-II Summary Report": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Correlation of normal gravity mixed convection blowoff limits with microgravity forced flow blowoff limits": {
+  "abstract": "The axisymmetric rod geometry in upward axial stagnation flow provides a simple way to measure normal gravity blowoff limits to compare with microgravity Burning and Suppression of Solids - II (BASS-II) results recently obtained aboard the International Space Station. This testing utilized the same BASS-II concurrent rod geometry, but with the addition of normal gravity buoyant flow. Cast polymethylmethacrylate (PMMA) rods of diameters ranging from 0.635 cm to 3.81 cm were burned at oxygen concentrations ranging from 14 to 18% by volume. The forced flow velocity where blowoff occurred was determined for each rod size and oxygen concentration. These blowoff limits compare favorably with the BASS-II results when the buoyant stretch is included and the flow is corrected by considering the blockage factor of the fuel. From these results, the normal gravity blowoff boundary for this axisymmetric rod geometry is determined to be linear, with oxygen concentration directly proportional to flow speed. We describe a new normal gravity 'upward flame spread test' method which extrapolates the linear blowoff boundary to the zero stretch limit in order to resolve microgravity flammability limits-something current methods cannot do. This new test method can improve spacecraft fire safety for future exploration missions by providing a tractable way to obtain good estimates of material flammability in low gravity.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2541431143"
+ },
+ "Fire in Microgravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2729488594"
+ },
+ "Microgravity Flammability of PMMA Rods in Concurrent Flow": {
+  "abstract": "Microgravity experiments burning cast PMMA cylindrical rods in axial flow have been conducted aboard the International Space Station in the Microgravity Science Glovebox (MSG) facility using the Burning and Suppression of Solids (BASS) flow duct, as part of the BASS-II experiment. Twenty-four concurrent-flow tests were performed, focusing on finding flammability limits as a function of oxygen and flow speed. The oxygen was varied by using gaseous nitrogen to vitiate the working volume of the MSG. The speed of the flow parallel to the rod was varied using a fan at the entrance to the duct. Both blowoff and quenching limits were obtained at several oxygen concentrations. Each experiment ignited the rod at the initially hemispherical stagnation tip of the rod, and allowed the flame to develop and heat the rod at a sufficient flow to sustain burning. For blowoff limit tests, the astronaut quickly turned up the flow to obtain extinction. Complementary 5.18-second Zero Gravity Facility drop tests were conducted to compare blowoff limits in short and long duration microgravity. For quenching tests, the flow was incrementally turned down and the flame allowed to stabilize at the new flow condition for at least the solid-phase response time before changing it again. Quenching was observed when the flow became sufficiently weak that the flame could no longer provide adequate heat flux to compensate for the heat losses (conduction into the rod and radiation). A surface energy balance is presented that shows the surface radiative loss exceeds the conductive loss into the rod near the limit. The flammability boundary is shown to represent a critical Damkohler number, expressed in terms of the reaction rate divided by the stretch rate. For the blowoff branch, the boundary exhibits a linear dependence on oxygen concentration and stretch rate, indicating that the temperature at blowoff must be fairly constant. For the quenching branch, the dominance of the exponential nature of the Arrhenius kinetics reaction rate indicates that the temperature is critical.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2569080786"
+ },
+ "Using a Narrow Channel Apparatus to Study Thermally-Intermediate Fuel Combustion in a Simulated 0g Environment": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Burning and Suppression of Solids – II Fire Safety Investigation for the Microgravity Science Glovebox": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Simplified model for predicting difference between flammability limits of a thin material in normal gravity and microgravity environments": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1995784624"
+ },
+ "A Correlation for an Effective Flow Velocity for Capturing the Boundary Layer Effect in Opposed-Flow Flame Spread over Thin Fuels": {
+  "abstract": "In opposed-flow flame spread over solid fuels, an indefinite increase in flow velocity eventually leads to flame extinguishment. While the chemical time is independent of the flow velocity, the residence time of the oxidizer at the flame leading edge is inversely proportional to the flow velocity and, therefore, a completion between the two leads to a situation where finite-rate kinetics dominate the flame spread behavior, leading to flame extinguishment. Their ratio, the non-dimensional Damkohler number, is known to capture this finite-rate effect and has been used to correlate the non-dimensional spread rate. Although these correlations explain the behavior observed in the experiments, there is considerable spread in the data and several variations of the defs of Damkohler number exist in literature. With all the progress made in this area, it is still not possible to predict the blow-off extinction velocity for a given fuel at any given oxidizer condition. In this work, computational evidence to establish the importance of the developing boundary layer in the kinetic and microgravity regimes is presented. Based on scale modeling, a formula is proposed for the effective velocity experienced by a flame in terms of the flow Reynolds number and Prandtl number and the expression using computational spread rates is verified.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2061313967"
+ },
+ "Radiation signature in opposed-flow flame spread": {
+  "abstract": "A radiation calculation procedure is presented for opposed-flow solid fuel flame spread. The purpose is to aid selection of different approaches for infrared flame imaging during flame spread experiments in a quiescent microgravity environment. The RADCAL and TTNH models are compared for accuracy and computational cost. The TTNH model is shown to be sufficiently accurate to calculate radiative heat flux. The RADCAL calculations suggest the ratio of signals at two prominent bands is a good candidate to detect a radiation signature. A range of flow velocities, fuel thicknesses, and environmental conditions are considered to evaluate the strength of radiative losses compared to the heat released by combustion. The results confirm the importance of radiative heat transfer in the microgravity regime, where the opposed-flow velocity can be mild or even absent, and support the conclusion that a simplified model for radiation calculation produces sufficient accuracy when compared to detailed RADCAL calculations.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W1995747663"
+ },
+ "OS24-1 The Effect of Boundary Layer on Blow-Off Extinction in Opposed-Flow Flame Spread: Results of Experiments and Simplified Analysis(invited,Scale modeling on solid combustion,OS24 Scale modeling,FLUID AND THERMODYNAMICS)": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2706229516"
+ },
+ "Role of Gas Radiation in the Mechanism of Opposed-Flow Flame Spread in a Microgravity Environment": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Thickness and Fuel Preheating Effects on Material Flammability in Microgravity from the BASS Experiment": {
+  "abstract": "The Burning and Suppression of Solids (BASS) experiment was performed on the International Space Station. Microgravity combustion tests burning thin and thick flat samples, acrylic spheres, and candles were conducted. The samples were mounted inside a small wind tunnel which could impose air flow speeds up to 40 cms. The wind tunnel was installed in the Microgravity Science Glovebox which supplied power, imaging, and a level of containment. The effects of air flow speed, fuel thickness, fuel preheating, and nitrogen dilution on flame appearance, flame growth, and spread rates were determined in both the opposed and concurrent flow configuration. In some cases, a jet of nitrogen was introduced to attempt to extinguish the flame. Microgravity flames were found to be especially sensitive to air flow speed in the range 0 to 5 cms. The gas phase response is much faster compared to the solid and so as the flow speed is changed, the flame responds with almost no delay. At the lowest speeds examined (less than 1 cms) all the flames tended to become dim blue and very stable. However, heat loss at these very low convective rates is small so the flames can burn for a long time. At moderate flow speeds (between about 1 and 5 cms) the flame continually heats the solid fuel resulting in an increasing fuel temperature, higher rate of fuel vaporization, and a stronger, more luminous flame as time progresses. Only the smallest flames burning acrylic slabs appeared to be adversely influenced by solid conductive heat loss, but even these burned for over 5 minutes before self-extinguishing. This has implications for spacecraft fire safety since a tiny flame might be undetected for a long time. While the small flame is not particularly hazardous if it remains small, the danger is that it might flare up if the air convection is suddenly increased or if the flame spreads into another fuel source.",
+  "match": "title",
+  "openalex": "https://openalex.org/W331773600"
+ },
+ "A novel apparatus for flame spread study": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2049683337"
+ },
+ "Opposed-Flow Flame Spread in a Narrow Channel Apparatus over Thin PMMA Sheets": {
+  "abstract": "Flame spread tests have been conducted over polymethylmethacrylate (PMMA) samples in San Diego State University's Narrow Channel Apparatus (SDSU NCA). The Narrow Channel Apparatus (NCA) has the ability to suppress buoyant flow in horizontally spreading flames, and is currently being investigated as a possible replacement or complement to NASA's current material flammability test standard for non-metallic solids, NASA-STD-(I)-6001B Test 1. The buoyant suppression achieved with a NCA allows for tests to be conducted in a simulated microgravity atmosphere-a characteristic that Test 1 lacks since flames present in Test 1 are buoyantly driven. The SDSU NCA allows for flame spread tests to be conducted with varying opposed flow oxidizer velocities, oxygen percent by volume, and total pressure. Also, since the test sample is placed symmetrically between two confining plates so that there is a gap above and below the sample, this gap can be adjusted. This gap height adjustment allows for a compromise between heat loss from the flame to the confining boundaries and buoyancy suppression achieved by those boundaries. This article explores the effect gap height has on the flame spread rate for 75 m thick PMMA at 1 atm pressure and 21% oxygen concentration by volume in the SDSU NCA. Flame spread results from the SDSU NCA for thin cellulose fuels have previously been compared to results from tests in actual microgravity at various test conditions with the same sample materials and were found to be in good agreement. This article also presents results from the SDSU NCA for PMMA at 1 atm pressure, opposed oxidizer velocity ranging from 3 to 35 cm/s, oxygen concentration by volume at 21%, 30 %, and 50% and fuel thicknesses of 50 and 75 m. These results are compared to results obtained in actual microgravity for PMMA obtained at the 4.5s drop tower of MGLAB in Gifu, Japan, and the 5.2s drop tower at NASA's Zero-Gravity Research Facility in Cleveland, OH. This comparison confirms that at 1 atm pressure, the SDSU NCA successfully simulates microgravity for not only thin cellulose fuels, but also for thin PMMA sheets as well. This further supports the idea that the NCA is a viable option to complement or replace NASA's Test 1 for material flammability testing. Tests with thick fuels will be conducted in the future to further characterize the SDSU NCA.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2510565632"
+ },
+ "The capillary channel flow experiments on the International Space Station: experiment set-up and first results": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2044164335"
+ },
+ "Choked flows in open capillary channels: theory, experiment and computations": {
+  "abstract": "This paper is concerned with flow-rate limitations in open capillary channels under low-gravity conditions. The channels consist of two parallel plates bounded by free liquid surfaces along the open sides. In the case of steady flow the capillary pressure of the free surface balances the differential pressure between the liquid and the surrounding constant-pressure gas phase. A maximum flow rate is achieved when the adjusted volumetric flow rate exceeds a certain limit leading to a collapse of the free surfaces. In this study the steady one-dimensional momentum equation is solved numerically for perfectly wetting incompressible liquids to determine important characteristics of the flow, such as the free-surface shape and limiting volumetric flow rate. Using the ratio of the mean liquid velocity and the longitudinal small-amplitude wave speed a local capillary speed index $S_{ca}$ is introduced. A reformulation of the momentum equation in terms of this speed index illustrates that the volumetric flow rate is limited. The maximum flow rate is reached if $S_{ca}\\,{=}\\,1$ locally, a phenomenon called choking in compressible flows. Experiments with perfectly wetting liquids in the low-gravity environment of a drop tower and aboard a sounding rocket are presented where the flow rate is increased in a quasi-steady manner up to the maximum value. The experimental results are in very good agreement with the numerical predictions. Furthermore, the influence of the $S_{ca}$ on the flow-rate limit is confirmed.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2144139276"
+ },
+ "A Fast Numerical Procedure for Steady Capillary Flow in Open Channels": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2007352317"
+ },
+ "Gas–liquid two‐phase flow through packed beds in microgravity": {
+  "abstract": "Abstract Experimental data on flow pattern transitions, pressure drop, and flow characteristics for cocurrent gas–liquid flow through packed columns in microgravity is analyzed. The pulse flow regime exists over a wider range of gas and liquid flow rates under microgravity conditions. Furthermore, maps used to predict transition boundaries in normal gravity do not apply in microgravity. The flow regime data are compared to the widely used Talmor map and a new transition criterion between bubble and pulse flow in microgravity is proposed. The pressure‐drop data clearly show that interfacial effects can increase the pressure drop by as much as 300% compared to those predicted by the single‐phase Ergun equation. A two‐phase friction factor is correlated to the superficial gas and liquid Reynolds numbers and the Suratman number. New data are also presented on the influence of gravity on the pulse amplitude and frequency.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2145637416"
+ },
+ "The shape and stability of wall-bound and wall-edge-bound drops and bubbles": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2072034974"
+ },
+ "Double porous screen element for gas-liquid phase separation": {
+  "abstract": null,
+  "match": "title",
+  "openalex": "https://openalex.org/W2063440606"
+ },
+ "Free Surface Flows under Compensated Gravity Conditions": {
+  "abstract": null,
+  "match": "title",
+  "openalex": "https://openalex.org/W1651841981"
+ },
+ "Stability limits of unsteady open capillary channel flow": {
+  "abstract": "This paper is concerned with steady and unsteady flow rate limitations in open capillary channels under low-gravity conditions. Capillary channels are widely used in Space technology for liquid transportation and positioning, e.g. in fuel tanks and life support systems. The channel observed in this work consists of two parallel plates bounded by free liquid surfaces along the open sides. The capillary forces of the free surfaces prevent leaking of the liquid and gas ingestion into the flow. In the case of steady stable flow the capillary pressure balances the differential pressure between the liquid and the surrounding constant-pressure gas phase. Increasing the flow rate in small steps causes a decrease of the liquid pressure. A maximum steady flow rate is achieved when the flow rate exceeds a certain limit leading to a collapse of the free surfaces due to the choking effect. In the case of unsteady flow additional dynamic effects take place due to flow rate transition and liquid acceleration. The maximum flow rate is smaller than in the case of steady flow. On the other hand, the choking effect does not necessarily cause surface collapse and stable temporarily choked flow is possible under certain circumstances. To determine the limiting volumetric flow rate and stable flow dynamic properties, a new stability theory for both steady and unsteady flow is introduced. Subcritical and supercritical (choked) flow regimes are defined. Stability criteria are formulated for each flow type. The steady (subcritical) criterion corresponds to the speed index defined by the limiting longitudinal small-amplitude wave speed, similar to the Mach number. The unsteady (supercritical) criterion for choked flow is defined by a new characteristic number, the dynamic index. It is based on pressure balances and reaches unity at the stability limit. The unsteady model based on the Bernoulli equation and the mass balance equation is solved numerically for perfectly wetting incompressible liquids. The unsteady model and the stability theory are verified by comparison to results of a sounding rocket experiment (TEXUS 41) on capillary channel flows launched in December 2005 from ESRANGE in north Sweden. For a clear overview of subcritical, supercritical, and unstable flow, parametric studies and stability diagrams are shown and compared to experimental observations.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2086882742"
+ },
+ "Dynamic stability analysis for capillary channel flow: One-dimensional and three-dimensional computations and the equivalent steady state technique": {
+  "abstract": "Spacecraft technology provides a series of applications for capillary channel flow. It can serve as a reliable means for positioning and transport of liquids under low gravity conditions. Basically, capillary channels provide liquid paths with one or more free surfaces. A problem may be flow instabilities leading to a collapse of the liquid surfaces. A result is undesired gas ingestion and a two phase flow which can in consequence cause several technical problems. The presented capillary channel consists of parallel plates with two free liquid surfaces. The flow rate is established by a pump at the channel outlet, creating a lower pressure within the channel. Owing to the pressure difference between the liquid phase and the ambient gas phase the free surfaces bend inwards and remain stable as long as they are able to resist the steady and unsteady pressure effects. For the numerical prediction of the flow stability two very different models are used. The one-dimensional unsteady model is mainly based on the Bernoulli equation, the continuity equation, and the Gauss–Laplace equation. For three-dimensional evaluations an open source computational fluid dynamics (CFD) tool is applied. For verifications the numerical results are compared with quasisteady and unsteady data of a sounding rocket experiment. Contrary to previous experiments this one results in a significantly longer observation sequence. Furthermore, the critical point of the steady flow instability could be approached by a quasisteady technique. As in previous experiments the comparison to the numerical model evaluation shows a very good agreement for the movement of the liquid surfaces and for the predicted flow instability. The theoretical prediction of the flow instability is related to the speed index, based on characteristic velocities of the capillary channel flow. Stable flow regimes are defined by stability criteria for steady and unsteady flow. The one-dimensional computation of the speed index is based on the technique of the equivalent steady system, which is published for the first time in the present paper. This approach assumes that for every unsteady state an equivalent steady state with a special boundary condition can be formulated. The equivalent steady state technique enables a reformulation of the equation system and an efficient and reliable speed index computation. Furthermore, the existence of the numerical singularity at the critical point of the steady flow instability, postulated in previous publication, is demonstrated in detail. The numerical singularity is related to the stability criterion for steady flow and represents the numerical consequence of the liquid surface collapse. The evaluation and generation of the pressure diagram is demonstrated in detail with a series of numerical dynamic flow studies. The stability diagram, based on one-dimensional computation, gives a detailed overview of the stable and instable flow regimes. This prediction is in good agreement with the experimentally observed critical flow conditions and results of three-dimensional CFD computations.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W1966593492"
+ },
+ "Transient Capillary Channel Flow Stability": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W81662662"
+ },
+ "Flow Rate Limitation in Open Capillary Channel Flows": {
+  "abstract": "This paper reports the experimental and theoretical investigations of forced liquid flows through open capillary channels under reduced gravity conditions. An open capillary channel is a structure that establishes a liquid flow path at low Bond numbers, when the capillary pressure caused by the surface tension force dominates in comparison to the hydrostatic pressure induced by gravitational or residual accelerations. In case of steady flow through the channel, the capillary pressure of the free surface balances the pressure difference between the liquid and the surrounding constant-pressure gas phase. Because of convective and viscous momentum transport, the pressure along the flow path decreases and causes the free surface to bend inward. The maximum flow rate is achieved when the free surface collapses and gas ingestion occurs at the outlet. This critical flow rate depends on the geometry of the channel and the properties of the liquid. In this paper we present a comparison of the theoretical and experimental critical flow rates and surface profiles for convective dominated flows. For the prediction of the critical flow rate a one-dimensional theoretical model taking into account the entrance pressure loss and the frictional pressure loss in the channel is developed.",
+  "match": "title",
+  "openalex": "https://openalex.org/W1964299751"
+ },
+ "Flow Rate Limitation of Steady Convective Dominated Open Capillary Channel Flows Through a Groove": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1969404773"
+ },
+ "Dynamic Fluid Interface Experiments Aboard the International Space Station: Model Benchmarking Dataset": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2082970387"
+ },
+ "Passive phase separation of microgravity bubbly flows using conduit geometry": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2089768454"
+ },
+ "TEST-CASE NO 35: FLOW RATE LIMITATION IN OPEN CAPILLARY CHANNELS (PE)": {
+  "abstract": "This test case concerns a liquid bridge flowing between two parallel plates in microgravity. It is proposed to determine the shape of the interface as a function of the liquid flow rate and the critical flow rate corresponding to the bridge collapse. Detailed and accurate experimental data are provided.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W1989422637"
+ },
+ "Investigation of forced liquid flows in open capillary channels": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2000138095"
+ },
+ "Flow limitation in convective dominated open capillary channel flows": {
+  "abstract": "Abstract In this work the flow rate limitation of convective dominated flows in open capillary channels is investigated experimentally. Since irreversible flow losses are small in this type of flow, the flow variables are approximately symmetrical with respect to the middle of the channel. Therefore a very precise proof of the origin of the limitation is possible. A new technique for the determination of the key property, the speed index, is presented. The speed index confirms that also in convective dominated flows the flow limitation occurs due to a choking‐effect. (© 2006 WILEY‐VCH Verlag GmbH & Co. KGaA, Weinheim)",
+  "match": "doi",
+  "openalex": "https://openalex.org/W1982633406"
+ },
+ "Design and performance of an experiment for the investigation of open capillary channel flows": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1595355569"
+ },
+ "Convective dominated flows in open capillary channels": {
+  "abstract": "This paper is concerned with convective dominated liquid flows in open capillary channels. The channels consist of two parallel plates bounded by free liquid surfaces along the open sides. In the case of steady flow the capillary pressure of the free surface balances the differential pressure between the liquid and the surrounding constant pressure gas phase. A maximum flow rate is achieved when the adjusted volumetric flow rate exceeds a certain limit leading to a collapse of the free surfaces. The convective dominated flow regime is a special case of open capillary flow, since the viscous forces are negligibly small compared with the convective forces. Flows of this type are of peculiar interest since the free surfaces possess a quasisymmetry in the flow direction. This quasisymmetry enables the application of a new effective method for evaluation of the flow limit. The flow limit is caused by a choking effect. This effect is indicated by the speed index, S, which is defined by the ratio of the flow velocity and the longitudinal capillary wave speed. The speed index is defined analogously to Mach number and tends toward unity in the case of flow limitation, i.e., when the maximum flow rate is reached. Utilizing the quasisymmetry, a new approach for a very precise determination of the speed index is presented. This approach uses a new approximation for the curvature of the surfaces by means of the empirical surface profiles. On the basis of empirical and theoretical data, the paper discusses the typical features of the stable flow. The experiments were performed under microgravity aboard the sounding rockets TEXUS 41 and TEXUS 42. The experiment setup enables the approach to the flow limit through either increase in flow rate or channel length. The theoretical data have been gained from numerical solutions of a one-dimensional flow model. The empirical and theoretical results are in good agreement and both confirm the choking effect as cause of the flow limitation. A general relation for the speed index as function of the flow rate and the channel length has been found which clarifies the fundamental behavior of the choking effect.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W2060262964"
+ },
+ "Laminar bubbly flow in an open capillary channel in microgravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2055313515"
+ },
+ "Experimental Investigation of a Bubbly Two-Phase Flow in an Open Capillary Channel under Microgravity Conditions": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2085020880"
+ },
+ "The capillary flow experiments aboard the International Space Station: Status": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W1989971761"
+ },
+ "A Combined Experimental and Computational Study of Soot Formation in Normal and Microgravity Conditions (2022)": {
+  "abstract": "In this paper, we consider a combined experimental and computational study of sooting, ethylene-air, laminar, coflow diffusion flames under normal and microgravity conditions. Two different burner configurations (Yale and ACME) are studied. Microgravity experiments are performed aboard the International Space Station. Computed simulations for both configurations under 1 g and 0 g conditions support previous experimental and modeling conclusions that at 0 g, the flame is lengthened, becomes broader and more diffuse, temperatures decrease and soot levels and gas residence times increase. However, in the case of the smaller ACME flame, these effects are significantly diminished. In an effort to assess the cause of the differences between the experimental and computational results at the two gravity levels, we perturbed a variety of model parameters associated with soot evolution to observe their effects on the simulation results. We also investigated the effects of radiation and its re-absorption. The results of the study indicate that it is likely that the model inadequately predicts the thermal field and the use of experimental temperatures imposed onto the solution would provide more accurate simulations of the soot field and heat transfer to the burner lip could alter the boundary conditions of the flames and hence the subsequent solutions.",
+  "match": "doi",
+  "openalex": "https://openalex.org/W4220752226"
+ },
+ "Microgravity flammability boundary for PMMA rods in axial stagnation flow: Experimental results and energy balance analyses (2017)": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2601770803"
+ },
+ "Radiative flamelet generated manifolds for solid fuel flame spread in microgravity (2023)": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W4384993288"
+ },
+ "Theoretical estimates of flammability bounds for thin condensed fuel diffusion flames in microgravity using detailed models of chemistry and radiation (2023)": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W4382600414"
+ },
+ "Two-color pyrometry based flame to fuel surface radiative heat flux diagnostic using flamelets": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W3137555284"
+ },
+ "Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire)": {
+  "abstract": "Flammability experiments on silicone samples were conducted in anticipation of the Spacecraft Fire Experiment (Saffire).The sample geometry was chosen to match the NASA 6001 Test 1 specification, namely 5 cm wide by 30 cm tall.Four thicknesses of silicone (0.25, 0.36, 0.61 and 1.00 mm) were examined.Tests included traditional upward buoyant flame spread using Test 1 procedures, downward opposed-flow flame spread, horizontal and angled flame spread, and forced-flow upward and downward flame spread.In addition to these configurations, upward and downward tests were conducted in a chamber with varying oxygen concentrations.In the upward buoyant flame spread tests, the flame generally did not burn the entire sample.As thickness was increased, the flame spread distance decreased before flame extinguishment.For the thickest sample, ignition could not be achieved.In the downward tests, the two thinnest samples permitted the flame to burn the entire sample, but the spread rate was lower compared to the corresponding upward values.The other two thicknesses could not be ignited in the downward configuration.The increased flammability for downward spreading flames relative to upward ones is uncommon.The two thinnest samples also burned completely in the horizontal configuration, as well as at angles up to 75 degrees from the horizontal.Upward tests in air with an added forced flow were more flammable.The upward and downward flammability behavior was compared in atmospheres of varying oxygen concentration to determine a maximum oxygen concentration for each configuration.Complementary analyses using EDS, TGA, and SEM techniques suggest the importance of the silica layer deposited downstream onto the unburned sample surface.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2184082616"
+ },
+ "Flame spread: Effects of microgravity and scale": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2898642503"
+ },
+ "Transient flame growth and spread processes over a large solid fabric in concurrent low-speed flows in microgravity – Model versus experiment": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2811229438"
+ },
+ "Fire safety in space – beyond flammability testing of small samples": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2088163564"
+ },
+ "Operation and Development Status of the Spacecraft Fire Experiments (Saffire)": {
+  "abstract": "Since 2012, a series of Spacecraft Fire Experiment (Saffire) have been under development by the Spacecraft Fire Safety Demonstration (SFS Demo) project, funded by NASA’s Advanced Exploration Systems. The overall objective of this project is to reduce the uncertainty and risk associated with the design of spacecraft fire safety systems for NASA’s exploration missions. This is accomplished by defining, developing, and conducting experiments that address gaps in spacecraft fire safety knowledge and capabilities identified by NASA’s Fire Safety System Maturation Team. The Spacecraft Fire Experiments (Saffire-I, -II, and -III) are material flammability tests at length scales that are realistic for a spacecraft fire in low-gravity. The specific objectives of these experiments are to (1) determine how rapidly a large scale fire grows in low-gravity and (2) investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test. The experiments will be conducted in Orbital ATK’s Cygnus vehicle after it has unberthed from the International Space Station. The tests will be fully automated with the data downlinked at the conclusion of the test before the Cygnus vehicle reenters the atmosphere. This paper will discuss three topics from the SFS Demo project. First, a status of the Saffire-I, II, and III experiments will be presented including an update on the initial results from the Saffire-I mission. Second, the objectives and development status for the next series of experiments, Saffire-IV, V, and VI, will be discussed including how these results will address spacecraft fire safety knowledge and capability gaps for NASA’s exploration missions. Finally, several ground-based activities that support these experiments and address other fire safety gaps for exploration will also be addressed.",
+  "match": "title",
+  "openalex": "https://openalex.org/W2511902470"
+ },
+ "Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire), Conference: 45th International Conference on Environmental Systems ICES-2015-[293] 12-16 July 2015, Bellevue, Washington": {
+  "abstract": null,
+  "match": null,
+  "openalex": null
+ },
+ "Buoyancy effects on concurrent flame spread over thick PMMA": {
+  "abstract": null,
+  "match": "title",
+  "openalex": "https://openalex.org/W2900397799"
+ },
+ "Concurrent Flame Spread Over Two-Sided Thick PMMA Slabs in Microgravity": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W2940602178"
+ },
+ "Evaluation of gas and particle sensors for detecting spacecraft-relevant fire emissions": {
+  "abstract": null,
+  "match": "doi",
+  "openalex": "https://openalex.org/W3009199224"
+ }
+}

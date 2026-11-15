@@ -1,0 +1,6 @@
+sentence-transformers>=3.0
+numpy
+fastapi
+uvicorn[standard]
+anthropic
+requests

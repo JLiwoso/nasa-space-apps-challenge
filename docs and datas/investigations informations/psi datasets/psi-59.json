@@ -1,0 +1,283 @@
+{
+  "investigation_id": "PSI-59",
+  "title": null,
+  "source": "NASA PSI",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-59",
+  "discipline": "Fluid Physics",
+  "description": "Building upon the CF-CV EU2 approach, the phase separation investigation utilizes a controlled bubble injection system to introduce bubbles of varying sizes and frequencies upstream of the wedge channel. The microgravity environment of the ISS ensures capillary-dominated flow conditions. Systematic variation of bubble injection parameters (size, frequency, location), flow rate, and channel geometry (wedge angle, length) enables comprehensive mapping of phase separation efficiency. High-speed imaging (HSHRC) coupled with wider-view video (MSGC) allows for detailed observation and quantification of bubble migration and coalescence. Image analysis techniques are employed to track bubble trajectories, quantify bubble size distributions before and after the wedge channel, and determine the overall degree of gas-liquid separation. This quantitative data is then correlated with the varied parameters to assess the effectiveness of the wedge geometry for passive phase separation and to optimize design parameters for enhanced performance.",
+  "investigation_type": "Microgravity Investigation",
+  "resources": [
+    {
+      "name": "Microgravity Science Glovebox",
+      "category": "Hardware",
+      "format": null,
+      "url": "https://ntrs.nasa.gov/api/citations/20140011634/downloads/20140011634.pdf",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Hardware used by this investigation (reference to its PSI page)"
+    },
+    {
+      "name": "Investigation Metadata Files",
+      "category": "Investigation Metadata Files",
+      "format": "folder",
+      "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-59",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Folder in the 'Data files and documents' section of the investigation page; its contents are browsed online, not downloaded."
+    },
+    {
+      "name": "Experimental table",
+      "category": "Experimental table",
+      "format": "folder",
+      "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-59",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Folder in the 'Data files and documents' section of the investigation page; its contents are browsed online, not downloaded."
+    },
+    {
+      "name": "The capillary channel flow experiments on the International Space Station: experiment set-up and first results",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1007/s00348-013-1519-1",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Canfield P. J., Bronowicki P. M., Chen Y., Kiewidt L., Grah A., Klatte J., Jenson R., Blackmore W., Weislogel M. M., Dreyer M. E.. DOI: 10.1007/s00348-013-1519-1."
+    },
+    {
+      "name": "Choked flows in open capillary channels: theory, experiment and computations",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1017/S0022112004001041",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: ROSENDAHL UWE, OHLHOFF ANTJE, DREYER MICHAEL E.. DOI: 10.1017/S0022112004001041."
+    },
+    {
+      "name": "A Fast Numerical Procedure for Steady Capillary Flow in Open Channels",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1007/s00707-008-0063-1",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: J Klatte, D Haake, MM Weislogel, ME Dreyer. DOI: 10.1007/s00707-008-0063-1."
+    },
+    {
+      "name": "Gas–liquid two‐phase flow through packed beds in microgravity",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1002/aic.690490303",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Motil Brian J., Balakotaiah Vemuri, Kamotani Yasuhiro. DOI: 10.1002/aic.690490303."
+    },
+    {
+      "name": "The shape and stability of wall-bound and wall-edge-bound drops and bubbles",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1007/BF02889516",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Chen Yongkang, Bacich Mike, Nardin Cory, Sitorus Albert, Weislogel Mark M.. DOI: 10.1007/BF02889516."
+    },
+    {
+      "name": "Double porous screen element for gas-liquid phase separation",
+      "category": "Publications",
+      "format": null,
+      "url": null,
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: M Conrath, Y Smiyukha, E Fuhrmann, M Dreyer."
+    },
+    {
+      "name": "Free Surface Flows under Compensated Gravity Conditions",
+      "category": "Publications",
+      "format": null,
+      "url": null,
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: M Dreyer."
+    },
+    {
+      "name": "Stability limits of unsteady open capillary channel flow",
+      "category": "Publications",
+      "format": null,
+      "url": null,
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: A Grah, D Haake, U Rosendahl, J Klatte, M Dreyer."
+    },
+    {
+      "name": "Dynamic stability analysis for capillary channel flow: One-dimensional and three-dimensional computations and the equivalent steady state technique",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1063/1.3275855",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Grah Aleksander, Dreyer Michael E.. DOI: 10.1063/1.3275855."
+    },
+    {
+      "name": "Transient Capillary Channel Flow Stability",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1007/s12217-014-9403-z",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Grah Aleksander, Canfield Peter J., Bronowicki Przemyslaw M., Dreyer Michael E., Chen Yongkang, Weislogel Mark M.. DOI: 10.1007/s12217-014-9403-z."
+    },
+    {
+      "name": "Flow Rate Limitation in Open Capillary Channel Flows",
+      "category": "Publications",
+      "format": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17124140",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: HAAKE DENNIS, ROSENDAHL UWE, OHLHOFF ANTJE, DREYER MICHAEL E. PubMed ID: 17124140. DOI: 10.1196/annals.1362.031."
+    },
+    {
+      "name": "Flow Rate Limitation of Steady Convective Dominated Open Capillary Channel Flows Through a Groove",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1007/s12217-009-9164-2",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Haake Dennis, Klatte Joerg, Grah Aleksander, Dreyer Michael E.. DOI: 10.1007/s12217-009-9164-2."
+    },
+    {
+      "name": "Dynamic Fluid Interface Experiments Aboard the International Space Station: Model Benchmarking Dataset",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.2514/1.47343",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Jenson Ryan M., Weislogel Mark M., Klatte Jorg, Dreyer Michael E.. DOI: 10.2514/1.47343."
+    },
+    {
+      "name": "Passive phase separation of microgravity bubbly flows using conduit geometry",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1016/j.ijmultiphaseflow.2014.05.011",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Jenson Ryan M., Wollman Andrew P., Weislogel Mark M., Sharp Lauren, Green Robert, Canfield Peter J., Klatte Jörg, Dreyer Michael E.. DOI: 10.1016/j.ijmultiphaseflow.2014.05.011."
+    },
+    {
+      "name": "TEST-CASE NO 35: FLOW RATE LIMITATION IN OPEN CAPILLARY CHANNELS (PE)",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1615/MultScienTechn.v16.i1-3.330",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Ohlhoff A., Rosendahl U., Dreyer M. E.. DOI: 10.1615/MultScienTechn.v16.i1-3.330."
+    },
+    {
+      "name": "Investigation of forced liquid flows in open capillary channels",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1007/BF02881681",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Rosendahl U., Ohlhoff A., Dreyer M. E., Rath H. J.. DOI: 10.1007/BF02881681."
+    },
+    {
+      "name": "Flow limitation in convective dominated open capillary channel flows",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1002/pamm.200610272",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Rosendahl Uwe, Ohlhoff Antje, Grah Aleksander, Dreyer Michael E.. DOI: 10.1002/pamm.200610272."
+    },
+    {
+      "name": "Design and performance of an experiment for the investigation of open capillary channel flows",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1007/s00348-007-0274-6",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Rosendahl Uwe, Dreyer Michael E.. DOI: 10.1007/s00348-007-0274-6."
+    },
+    {
+      "name": "Convective dominated flows in open capillary channels",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1063/1.3379847",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Rosendahl Uwe, Grah Aleksander, Dreyer Michael E.. DOI: 10.1063/1.3379847."
+    },
+    {
+      "name": "Laminar bubbly flow in an open capillary channel in microgravity",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1016/j.ijmultiphaseflow.2010.05.003",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Salim Abdelkader, Colin Catherine, Grah Aleksander, Dreyer Michael E.. DOI: 10.1016/j.ijmultiphaseflow.2010.05.003."
+    },
+    {
+      "name": "Experimental Investigation of a Bubbly Two-Phase Flow in an Open Capillary Channel under Microgravity Conditions",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1007/s12217-009-9115-y",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Salim Abdelkader, Colin Catherine, Dreyer Michael. DOI: 10.1007/s12217-009-9115-y."
+    },
+    {
+      "name": "The capillary flow experiments aboard the International Space Station: Status",
+      "category": "Publications",
+      "format": null,
+      "url": "https://doi.org/10.1016/j.actaastro.2009.03.008",
+      "file_size": null,
+      "downloadable": false,
+      "description": "Authors: Weislogel Mark M., Jenson Ryan, Chen Yongkang, Collicott Steven H., Klatte Jörg, Dreyer Michael. DOI: 10.1016/j.actaastro.2009.03.008."
+    }
+  ],
+  "version": null,
+  "data_type": null,
+  "total_size": "16.66 KB",
+  "submitted_date": "18-Sep-2024",
+  "initial_release_date": "18-Sep-2024",
+  "doi": "10.60555/g91s-8894",
+  "doi_url": "https://doi.org/10.60555/g91s-8894",
+  "research_area": "Fluid Physics",
+  "sub_research_area": null,
+  "license": "CC0-1.0",
+  "license_url": "https://spdx.org/licenses/CC0-1.0.html",
+  "project": {
+    "project_type": "Microgravity Investigation",
+    "proposal_title": null,
+    "flight_platform": "International Space Station (ISS)",
+    "sponsoring_agency": "National Aeronautics and Space Administration (NASA)",
+    "nasa_center": "Glenn Research Center (GRC)"
+  },
+  "objectives": "The objectives are to quantify phase separation efficiency in wedge channels as a function of flow parameters, bubble characteristics, and channel geometry; determine the influence of bubble size and injection frequency on separation efficiency; and optimize wedge geometry for passive phase separation.",
+  "hypothesis": "The hypothesis underlying CCF-PS EU2 is that specific wedge and gapped-wedge channel designs can passively separate liquid and gas phases due to the complex interplay of capillary and inertial forces. Furthermore, it is hypothesized that by carefully adjusting flow conditions, such as flow rate and channel length as well as bubble properties, such as bubble size and frequency, it is possible to identify geometries and regimes suitable for gas-liquid separation, which can be used for spacecraft tank design and liquid supply.",
+  "research_impacts_earth_benefits": "Current spacecraft fuel tanks rely on an additional reservoir to prevent gases from entering the engines during firing. Capillary systems larger than a few millimeters in length are impossible to study on the ground, but the weightlessness on the International Space Station makes research on a variety of capillary channel sizes possible. The results are useful for the design and testing of liquid management systems in current use and for future missions. Rocket fuel tank designs and construction models from space research help to advance new technology and manufacturing capabilities on Earth.",
+  "contacts": [
+    "Mark M. Weislogelemail",
+    "Peter J. Canfieldemail",
+    "Aleksander Grahemail",
+    "Joerg Klatteemail",
+    "Lauren Brownemail",
+    "table_view"
+  ],
+  "experimental_table": {
+    "available": true,
+    "total_rows": 0,
+    "columns": []
+  },
+  "modeling_table_available": false,
+  "read_me_available": false,
+  "version_history": [
+    {
+      "version": "3",
+      "updated_date": "06-Jun-2025",
+      "changes": "Metadata update",
+      "files_added": null
+    }
+  ],
+  "collection_notes": [
+    "Title not found"
+  ]
+}

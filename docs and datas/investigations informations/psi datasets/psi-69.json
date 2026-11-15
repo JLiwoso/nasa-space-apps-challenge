@@ -1,0 +1,47 @@
+{
+  "investigation_id": "PSI-69",
+  "title": null,
+  "source": "NASA PSI",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
+  "discipline": "Combustion Science",
+  "description": null,
+  "investigation_type": null,
+  "resources": [],
+  "version": null,
+  "data_type": null,
+  "total_size": null,
+  "submitted_date": null,
+  "initial_release_date": null,
+  "doi": null,
+  "doi_url": null,
+  "research_area": null,
+  "sub_research_area": null,
+  "license": null,
+  "license_url": null,
+  "project": {
+    "project_type": null,
+    "proposal_title": null,
+    "flight_platform": null,
+    "sponsoring_agency": null,
+    "nasa_center": null
+  },
+  "objectives": null,
+  "hypothesis": null,
+  "research_impacts_earth_benefits": null,
+  "contacts": [],
+  "experimental_table": {
+    "available": null,
+    "total_rows": null,
+    "columns": []
+  },
+  "modeling_table_available": null,
+  "read_me_available": null,
+  "version_history": [],
+  "collection_notes": [
+    "Page layout not recognised: no section found (run with --debug to inspect the page)",
+    "Title not found",
+    "Investigation type (Project Type) not found",
+    "Description (Approach/Objectives) not found",
+    "No resource detected (run with --debug to inspect the raw page)"
+  ]
+}

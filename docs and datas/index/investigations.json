@@ -1,0 +1,1413 @@
+[
+ {
+  "id": "PSI-100",
+  "name": "PSI-100",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+  "doi_url": "https://doi.org/10.60555/040q-4h36",
+  "size": "32.79 GB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Spacecraft Fire Safety",
+  "contacts": [
+   "David L. Urban"
+  ],
+  "publications": [
+   {
+    "title": "Saffire III enclosure in Cygnus",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/msg/saffire/",
+    "category": "Hardware"
+   },
+   {
+    "title": "Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire), 45th International Conference on Environmental Systems ICES-2015-[293] 12-16 July 2015, Bellevue, Washington",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "category": "Publications"
+   },
+   {
+    "title": "The Spacecraft Fire Experiment (Saffire) - Objectives, Development and Status",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "category": "Publications"
+   },
+   {
+    "title": "Operation and Development Status of the Spacecraft Fire Experiments (Saffire), 46th International Conference on Environmental Systems (ICES), July 2016",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-102",
+  "name": "PSI-102",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+  "doi_url": "https://doi.org/10.60555/gd4k-8h62",
+  "size": "627.14 MB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Spacecraft Fire Safety",
+  "contacts": [
+   "David Urban",
+   "George Mulholland",
+   "Thomas Cleary",
+   "Jiann Yang",
+   "Claire Fortenberry"
+  ],
+  "publications": [
+   {
+    "title": "Comparitive Soot Diagnostic Hardware",
+    "url": "https://ntrs.nasa.gov/api/citations/19960008413/downloads/19960008413.pdf",
+    "category": "Hardware"
+   },
+   {
+    "title": "Investigation Metadata Files",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Investigation Metadata Files"
+   },
+   {
+    "title": "Engineering Documents",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Engineering Documents"
+   },
+   {
+    "title": "Reports",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Reports"
+   },
+   {
+    "title": "Analyzed Data",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Analyzed Data"
+   },
+   {
+    "title": "Presentations",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Presentations"
+   },
+   {
+    "title": "Science Documents",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Science Documents"
+   },
+   {
+    "title": "Reference Data",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Reference Data"
+   },
+   {
+    "title": "Experimental table",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Experimental table"
+   },
+   {
+    "title": "Measurement of Smoke Particle Size under Low-Gravity Conditions",
+    "url": "https://doi.org/10.4271/2008-01-2089",
+    "category": "Publications"
+   },
+   {
+    "title": "Properties of Smoke from Overheated Spacecraft Materials in Low-Gravity",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Publications"
+   },
+   {
+    "title": "Smoke Particle Sizes in Low-Gravity and Implications for Spacecraft Smoke Detector Design",
+    "url": "https://doi.org/10.4271/2009-01-2468",
+    "category": "Publications"
+   },
+   {
+    "title": "Spacecraft Fire Detection: Smoke Properties and Transport in Low-Gravity",
+    "url": "https://doi.org/10.2514/6.2008-806",
+    "category": "Publications"
+   },
+   {
+    "title": "ISS Destiny Laboratory Smoke Detection Model",
+    "url": "https://doi.org/10.4271/2007-01-3076",
+    "category": "Publications"
+   },
+   {
+    "title": "Smoke: Characterization of Smoke Particulate for Spacecraft Fire Detection, Seventh International Microgravity Combustion Workshop",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Publications"
+   },
+   {
+    "title": "Smoke: Characterization of Smoke Particulate for Spacecraft Fire Detection",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Publications"
+   },
+   {
+    "title": "Characterization of Nuisance Particulates in the ISS: Space Smoke Aerosols and Lunar Dust Abatement",
+    "url": "https://doi.org/10.1017/S1431927610060563",
+    "category": "Publications"
+   },
+   {
+    "title": "Combustion Research on the International Space Station",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Publications"
+   },
+   {
+    "title": "Detection of Smoke from Microgravity Fires",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Publications"
+   },
+   {
+    "title": "A Research Plan for Fire Prevention, Detection and Suppression in Crewed Exploration Systems",
+    "url": "https://doi.org/10.2514/6.2005-341",
+    "category": "Publications"
+   },
+   {
+    "title": "Pyrolysis Smoke Generated Under Low-Gravity Conditions",
+    "url": "https://doi.org/10.1080/02786826.2015.1025125",
+    "category": "Publications"
+   },
+   {
+    "title": "Smoke Characterization and Feasibility of the Moment Method for Spacecraft Fire Detection",
+    "url": "https://doi.org/10.1080/02786826.2015.1025124",
+    "category": "Publications"
+   },
+   {
+    "title": "Evaluation of spacecraft smoke detector performance in the low-gravity environment",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33654340",
+    "category": "Publications"
+   },
+   {
+    "title": "The Microgravity Science Glovebox (MSG), a Resource for Gravity-Dependent Phenomena Research on the International Space Station (ISS)",
+    "url": "https://doi.org/10.2514/6.2007-546",
+    "category": "Publications"
+   },
+   {
+    "title": "AN OVERVIEW OF THE MICROGRAVITY SCIENCE GLOVEBOX (MSG) FACILITY, AND THE GRAVITY-DEPENDENT PHENOMENARESEARCH PERFORMED IN THE MSG ON THE INTERNATIONAL SPACE STATION (ISS)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-107",
+  "name": "PSI-107",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+  "doi_url": "https://doi.org/10.60555/9kbh-e962",
+  "size": "6.47 GB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Fire Safety",
+  "contacts": [
+   "David Urban",
+   "Peter Sunderland"
+  ],
+  "publications": [
+   {
+    "title": "Microgravity Science Glovebox (MSG)",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Microgravity_Science_Glovebox",
+    "category": "Hardware"
+   },
+   {
+    "title": "Laminar Smoke Points in Coflow Measured Aboard the International Space Station",
+    "url": "https://doi.org/10.2514/6.2010-1105",
+    "category": "Publications"
+   },
+   {
+    "title": "Scaling of Gas-Jet Flame Lengths in Elevated Gravity",
+    "url": "https://doi.org/10.1007/978-1-4020-8682-3_22",
+    "category": "Publications"
+   },
+   {
+    "title": "The Microgravity Science Glovebox (MSG), a Resource for Gravity-Dependent Phenomena Research on the International Space Station (ISS)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "category": "Publications"
+   },
+   {
+    "title": "The Microgravity Science Glovebox as a Platform for Exploration Research on the International Space Station",
+    "url": "https://doi.org/10.2514/6.2006-941",
+    "category": "Publications"
+   },
+   {
+    "title": "A Combined Experimental and Computational Study of Soot Formation in Normal and Microgravity Conditions",
+    "url": "https://doi.org/10.1080/00102202.2022.2041621",
+    "category": "Publications"
+   },
+   {
+    "title": "Shapes of nonbuoyant round hydrocarbon-fueled laminar-jet diffusion flames in still air",
+    "url": "https://doi.org/10.1016/j.combustflame.2004.12.009",
+    "category": "Publications"
+   },
+   {
+    "title": "Shapes of nonbuoyant round luminous hydrocarbon/air laminar jet diffusion flames",
+    "url": "https://doi.org/10.1016/S0010-2180(98)00100-X",
+    "category": "Publications"
+   },
+   {
+    "title": "Smoke Points of Microgravity and Normal Gravity Coflow Diffusion",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "category": "Publications"
+   },
+   {
+    "title": "Laminar smoke points of coflowing flames in microgravity",
+    "url": "https://doi.org/10.1016/j.firesaf.2011.08.002",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-115",
+  "name": "PSI-115",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+  "doi_url": "https://doi.org/10.60555/q0v5-1v28",
+  "size": "252.16 MB",
+  "platform": "Not Applicable",
+  "license": "CC0-1.0",
+  "research_area": "Smoke Aerosol, Combustion Simulation",
+  "contacts": [
+   "Sean Garrick",
+   "Michael Hicks"
+  ],
+  "publications": [
+   {
+    "title": "No associated hardware",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+    "category": "Hardware"
+   },
+   {
+    "title": "Investigation Metadata Files",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+    "category": "Investigation Metadata Files"
+   },
+   {
+    "title": "Analyzed Data",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+    "category": "Analyzed Data"
+   },
+   {
+    "title": "Reports",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+    "category": "Reports"
+   },
+   {
+    "title": "Science Documents",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+    "category": "Science Documents"
+   }
+  ]
+ },
+ {
+  "id": "PSI-117",
+  "name": "PSI-117",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+  "doi_url": "https://doi.org/10.60555/gz0q-b577",
+  "size": "67.54 MB",
+  "platform": null,
+  "license": "CC0-1.0",
+  "research_area": "Droplet",
+  "contacts": [
+   "Tanvir Farouk",
+   "Mike Hicks"
+  ],
+  "publications": [
+   {
+    "title": "No associated hardware",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Hardware"
+   },
+   {
+    "title": "Investigation Metadata Files",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Investigation Metadata Files"
+   },
+   {
+    "title": "Presentations",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Presentations"
+   },
+   {
+    "title": "Analyzed Data",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Analyzed Data"
+   },
+   {
+    "title": "Reports",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Reports"
+   },
+   {
+    "title": "Extinction characteristics of isolated n-alkane fuel droplets during low temperature cool flame burning in air (2023)",
+    "url": "https://doi.org/10.1016/j.proci.2022.07.094",
+    "category": "Publications"
+   },
+   {
+    "title": "Sub-millimeter sized multi-component jet fuel surrogate droplet combustion: Physicochemical preferential vaporization effects (2021)",
+    "url": "https://doi.org/10.1016/j.proci.2020.06.200",
+    "category": "Publications"
+   },
+   {
+    "title": "Initial diameter effects on combustion of unsupported equi-volume n-heptane/iso-octane mixture droplets and the transition to cool flame behavior: Experimental observations and detailed numerical modeling (2020)",
+    "url": "https://doi.org/10.1016/j.combustflame.2020.06.012",
+    "category": "Publications"
+   },
+   {
+    "title": "Oscillatory cool flame combustion behavior of submillimeter sized n-alkane droplet under near limit conditions (2019)",
+    "url": "https://doi.org/10.1016/j.proci.2018.05.151",
+    "category": "Publications"
+   },
+   {
+    "title": "Investigating the role of preferential vaporization during submillimeter sized multicomponent jet fuel surrogate droplet combustion (2019)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Publications"
+   },
+   {
+    "title": "Multi-component jet fuel surrogate droplet combustion: Preferential vaporization behaviors under spray relevant conditions and effects on combustion behaviors (2019)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Publications"
+   },
+   {
+    "title": "Cool Flame Combustion of Sub-Millimeter Sized Higher n-Alkane Droplets at Atmospheric Condition (2017)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Publications"
+   },
+   {
+    "title": "Non-Premixed - Partially Premixed to Diffusive Burning: Initial Transient of Direct Cool Flame Burn (2017)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Publications"
+   },
+   {
+    "title": "Oscillatory Cool Flame Combustion Behavior of Submillimeter Sized n-Alkane Droplet under Near Limit Conditions (2018)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-117",
+    "category": "Publications"
+   },
+   {
+    "title": "Dynamics of cool flames (2019)",
+    "url": "https://doi.org/10.1016/j.pecs.2019.100787",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-142",
+  "name": "PSI-142",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-142",
+  "doi_url": "https://doi.org/10.60555/80qf-vj95",
+  "size": "730.58 KB",
+  "platform": "Not Applicable",
+  "license": "CC0-1.0",
+  "research_area": "Spacecraft Fire Safety",
+  "contacts": [
+   "Yiguang Ju",
+   "Christopher Reuter",
+   "Daniel Dietrich"
+  ],
+  "publications": [
+   {
+    "title": "Principal Investigator Laboratory Hardware",
+    "url": "https://doi.org/10.1016/j.combustflame.2016.01.008",
+    "category": "Hardware"
+   },
+   {
+    "title": "Investigation Metadata Files",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-142",
+    "category": "Investigation Metadata Files"
+   },
+   {
+    "title": "Analyzed Data",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-142",
+    "category": "Analyzed Data"
+   },
+   {
+    "title": "Experimental table",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-142",
+    "category": "Experimental table"
+   },
+   {
+    "title": "Dynamics of cool flames",
+    "url": "https://doi.org/10.1016/j.pecs.2019.100787",
+    "category": "Publications"
+   },
+   {
+    "title": "The radical index and the effect of oxygen concentration on non-premixed cool flame extinction of large n-alkanes",
+    "url": "https://doi.org/10.1016/j.combustflame.2021.111471",
+    "category": "Publications"
+   },
+   {
+    "title": "On the propagation limits and speeds of premixed cool flames at elevated pressures",
+    "url": "https://doi.org/10.1016/j.combustflame.2017.01.006",
+    "category": "Publications"
+   },
+   {
+    "title": "Study of the low-temperature reactivity of large n-alkanes through cool diffusion flame extinction",
+    "url": "https://doi.org/10.1016/j.combustflame.2017.01.028",
+    "category": "Publications"
+   },
+   {
+    "title": "Counterflow flame experiments and chemical kinetic modeling of dimethyl ether/methane mixtures",
+    "url": "https://doi.org/10.1016/j.combustflame.2018.06.004",
+    "category": "Publications"
+   },
+   {
+    "title": "Low-temperature multistage warm diffusion flames",
+    "url": "https://doi.org/10.1016/j.combustflame.2018.03.013",
+    "category": "Publications"
+   },
+   {
+    "title": "Dynamics and burning limits of near-limit hot, warm, and cool diffusion flames of dimethyl ether at elevated pressures",
+    "url": "https://doi.org/10.1016/j.proci.2018.05.082",
+    "category": "Publications"
+   },
+   {
+    "title": "On the chemical characteristics and dynamics of n-alkane low-temperature multistage diffusion flames",
+    "url": "https://doi.org/10.1016/j.proci.2018.06.161",
+    "category": "Publications"
+   },
+   {
+    "title": "Quantitative measurements of HO 2 /H 2 O 2 and intermediate species in low and intermediate temperature oxidation of dimethyl ether",
+    "url": "https://doi.org/10.1016/j.proci.2014.05.120",
+    "category": "Publications"
+   },
+   {
+    "title": "SUPPLEMENTARY MATERIAL The radical index and the effect of oxygen concentration on non-premixed cool flame extinction of large n-alkanes",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-142",
+    "category": "Publications"
+   },
+   {
+    "title": "Pressure and Radiation Effects on the Dynamics of Hot and Cool Diffusion Flames",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-142",
+    "category": "Publications"
+   },
+   {
+    "title": "Transient interactions between a premixed double flame and a vortex",
+    "url": "https://doi.org/10.1016/j.proci.2018.07.050",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-20",
+  "name": "PSI-20",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+  "doi_url": "https://doi.org/10.60555/vb93-3y72",
+  "size": "1.85 TB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Flames of Gaseous Fuels",
+  "contacts": [
+   "James G. Quintiere",
+   "John L de Ris",
+   "Peter Sunderland",
+   "Dennis Stocker"
+  ],
+  "publications": [
+   {
+    "title": "Combustion Integrated Rack (CIR)",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/",
+    "category": "Hardware"
+   },
+   {
+    "title": "ACME",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/iss-fcf/combustion-science/acme/",
+    "category": "Hardware"
+   },
+   {
+    "title": "Burning on flat wicks at various orientations",
+    "url": "https://doi.org/10.1177/0734904113495650",
+    "category": "Publications"
+   },
+   {
+    "title": "A Gas Burner to Emulate Condensed-Phase Burning",
+    "url": "https://doi.org/10.3850/978-981-07-5936-0_03-01",
+    "category": "Publications"
+   },
+   {
+    "title": "Experimental Investigation of Liquid and Gas Fueled Flames Towards the Development of a Burning Rate Emulator (BRE) for Microgravity Applications",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+    "category": "Publications"
+   },
+   {
+    "title": "Burning in microgravity: Experimental results and analysis",
+    "url": "https://doi.org/10.1016/j.combustflame.2021.01.035",
+    "category": "Publications"
+   },
+   {
+    "title": "Transient dynamics of radiative extinction in low-momentum microgravity diffusion flames",
+    "url": "https://doi.org/10.1016/j.proci.2020.06.110",
+    "category": "Publications"
+   },
+   {
+    "title": "Emulation of condensed fuel flames with gaseous fuels supplied through a porous copper calorimeter",
+    "url": "https://doi.org/10.1002/fam.2896",
+    "category": "Publications"
+   },
+   {
+    "title": "Radiative Extinction of Laminar Diffusion Flame above the Flat Porous Burner in Microgravity: A Computational Study",
+    "url": "https://doi.org/10.1134/S0010508220040036",
+    "category": "Publications"
+   },
+   {
+    "title": "Transient ellipsoidal combustion model for a porous burner in microgravity",
+    "url": "https://doi.org/10.1016/j.combustflame.2019.09.030",
+    "category": "Publications"
+   },
+   {
+    "title": "Measuring heat flux to a porous burner in microgravity",
+    "url": "https://doi.org/10.1016/j.proci.2018.05.006",
+    "category": "Publications"
+   },
+   {
+    "title": "Analysis of extinction and sustained ignition",
+    "url": "https://doi.org/10.1016/j.firesaf.2019.02.003",
+    "category": "Publications"
+   },
+   {
+    "title": "A Burning Rate Emulator (BRE) for study of condensed fuel burning in microgravity",
+    "url": "https://doi.org/10.1016/j.combustflame.2018.01.044",
+    "category": "Publications"
+   },
+   {
+    "title": "Study of ignition and extinction of small-scale fires in experiments with an emulating gas burner",
+    "url": "https://doi.org/10.1016/j.firesaf.2016.11.003",
+    "category": "Publications"
+   },
+   {
+    "title": "Emulation of condensed fuel flames with gases in microgravity",
+    "url": "https://doi.org/10.1016/j.combustflame.2015.05.005",
+    "category": "Publications"
+   },
+   {
+    "title": "Flammability maps for microgravity burning of a small flat material in a quiescent ambient",
+    "url": "https://doi.org/10.1016/j.combustflame.2023.112809",
+    "category": "Publications"
+   },
+   {
+    "title": "Demonstrating steady burning for small flat materials in microgravity in a quiescent ambient",
+    "url": "https://doi.org/10.1016/j.proci.2022.08.107",
+    "category": "Publications"
+   },
+   {
+    "title": "Theoretical analysis and predictions of burning in microgravity using a burning emulator",
+    "url": "https://doi.org/10.1016/j.combustflame.2021.111572",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-21",
+  "name": "PSI-21",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-21",
+  "doi_url": "https://doi.org/10.60555/23e1-9950",
+  "size": "1.82 TB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Flames of gaseous fuel",
+  "contacts": [
+   "Marshall B. Long",
+   "Mitchell Smooke",
+   "Dennis Stocker"
+  ],
+  "publications": [
+   {
+    "title": "Combustion Integrated Rack (CIR)",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/",
+    "category": "Hardware"
+   },
+   {
+    "title": "ACME",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/iss-fcf/combustion-science/acme/implementation/",
+    "category": "Hardware"
+   },
+   {
+    "title": "Analysis of CH* concentration and flame heat release rate in laminar coflow diffusion flames under microgravity and normal gravity",
+    "url": "https://doi.org/10.1016/j.combustflame.2016.02.012",
+    "category": "Publications"
+   },
+   {
+    "title": "Signal-to-noise ratio improvements in laser flow diagnostics using time-resolved image averaging and high dynamic range imaging",
+    "url": "https://doi.org/10.1007/s00348-016-2218-5",
+    "category": "Publications"
+   },
+   {
+    "title": "A computational and experimental study of coflow laminar methane/air diffusion flames: Effects of fuel dilution, inlet velocity, and gravity",
+    "url": "https://doi.org/10.1016/j.proci.2014.05.138",
+    "category": "Publications"
+   },
+   {
+    "title": "A Combined Experimental and Computational Study of Soot Formation in Normal and Microgravity Conditions",
+    "url": "https://doi.org/10.1080/00102202.2022.2041621",
+    "category": "Publications"
+   },
+   {
+    "title": "Constrained-temperature solutions of coflow laminar diffusion flames",
+    "url": "https://doi.org/10.1016/j.proci.2020.06.034",
+    "category": "Publications"
+   },
+   {
+    "title": "Effects of pressure and fuel dilution on coflow laminar methane–air diffusion flames: A computational and experimental study",
+    "url": "https://doi.org/10.1080/13647830.2017.1403051",
+    "category": "Publications"
+   },
+   {
+    "title": "Effect of soot self-absorption on color-ratio pyrometry in laminar coflow diffusion flames",
+    "url": "https://doi.org/10.1364/OL.43.001103",
+    "category": "Publications"
+   },
+   {
+    "title": "A computational and experimental study of coflow laminar methane/air diffusion flames: Effects of fuel dilution, inlet velocity, and gravity",
+    "url": "https://doi.org/10.1016/j.proci.2014.05.138",
+    "category": "Publications"
+   },
+   {
+    "title": "An experimental and computational study of soot formation in a coflow jet flame under microgravity and normal gravity",
+    "url": "https://doi.org/10.1016/j.proci.2014.05.064",
+    "category": "Publications"
+   },
+   {
+    "title": "Absolute light calibration using S-type thermocouples",
+    "url": "https://doi.org/10.1016/j.proci.2012.05.030",
+    "category": "Publications"
+   },
+   {
+    "title": "A comparison of Raman signatures and laser-induced incandescence with direct numerical simulation of soot growth in non-premixed ethylene/air flames",
+    "url": "https://doi.org/10.1016/j.carbon.2011.07.050",
+    "category": "Publications"
+   },
+   {
+    "title": "Soot and thin-filament pyrometry using a color digital camera",
+    "url": "https://doi.org/10.1016/j.proci.2010.05.006",
+    "category": "Publications"
+   },
+   {
+    "title": "IMAGING FLAMES: FROM ADVANCED LASER DIAGNOSTICS TO SNAPSHOTS",
+    "url": "https://doi.org/10.1142/9789814295789_0004",
+    "category": "Publications"
+   },
+   {
+    "title": "A paradigm shift in the interaction of experiments and computations in combustion research",
+    "url": "https://doi.org/10.1016/j.proci.2008.05.066",
+    "category": "Publications"
+   },
+   {
+    "title": "Computational and experimental investigation of the interaction of soot and NO in coflow diffusion flames",
+    "url": "https://doi.org/10.1016/j.proci.2008.06.182",
+    "category": "Publications"
+   },
+   {
+    "title": "Distributed-memory parallel computation of a forced, time-dependent, sooting, ethylene/air coflow diffusion flame",
+    "url": "https://doi.org/10.1080/13647830903159293",
+    "category": "Publications"
+   },
+   {
+    "title": "Measurements and calculations of formaldehyde concentrations in a methane/N2/air, non-premixed flame: Implications for heat release rate",
+    "url": "https://doi.org/10.1016/j.proci.2008.05.083",
+    "category": "Publications"
+   },
+   {
+    "title": "Computational and experimental study of a forced, time-dependent, methane–air coflow diffusion flame",
+    "url": "https://doi.org/10.1016/j.proci.2006.08.109",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-22",
+  "name": "PSI-22",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+  "doi_url": "https://doi.org/10.60555/se5a-8c73",
+  "size": "884.95 GB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Laminar Flames",
+  "contacts": [
+   "Derek Dunn-Rankin",
+   "Dennis Stocker",
+   "Alice Chien"
+  ],
+  "publications": [
+   {
+    "title": "Combustion Integrated Rack (CIR)",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/",
+    "category": "Hardware"
+   },
+   {
+    "title": "ACME",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/iss-fcf/combustion-science/acme/implementation/",
+    "category": "Hardware"
+   },
+   {
+    "title": "Ion Current and Flame Changes with Electric Fields in Microgravity",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+    "category": "Publications"
+   },
+   {
+    "title": "Electric Field Induced Changes of a Diffusion Flame and Heat Transfer near an Impinging Surface",
+    "url": "https://doi.org/10.3390/en11051235",
+    "category": "Publications"
+   },
+   {
+    "title": "Electrical Aspects of Impinging Flames",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+    "category": "Publications"
+   },
+   {
+    "title": "The Influence of Electric Field Power Systems on Flame Behavior",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+    "category": "Publications"
+   },
+   {
+    "title": "Ionization and chemiluminescence during the progressive aeration of methane flames",
+    "url": "https://doi.org/10.1016/j.combustflame.2009.08.008",
+    "category": "Publications"
+   },
+   {
+    "title": "Modelling electric field driven convection in small combustion plasmas and surrounding gases",
+    "url": "https://doi.org/10.1080/13647830701383814",
+    "category": "Publications"
+   },
+   {
+    "title": "Canceling buoyancy of gaseous fuel flames in a gravitational environment using an ion-driven wind.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17124146",
+    "category": "Publications"
+   },
+   {
+    "title": "Detailed characterization of DC electric field effects on small non-premixed flames",
+    "url": "https://doi.org/10.1016/j.combustflame.2015.03.019",
+    "category": "Publications"
+   },
+   {
+    "title": "Microgravity burner-generated spherical diffusion flames: experiment and computation. Currently at Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, OH 44106.",
+    "url": "https://doi.org/10.1016/S0010-2180(01)00247-4",
+    "category": "Publications"
+   },
+   {
+    "title": "PLIF and chemiluminescence in a small laminar coflow methane-air diffusion flame at elevated pressures",
+    "url": "https://doi.org/10.1016/j.combustflame.2022.112067",
+    "category": "Publications"
+   },
+   {
+    "title": "Ion current and carbon monoxide release from an impinging methane/air coflow flame in an electric field",
+    "url": "https://doi.org/10.1016/j.combustflame.2019.03.022",
+    "category": "Publications"
+   },
+   {
+    "title": "Non-premixed axisymmetric flames driven by ion currents",
+    "url": "https://doi.org/10.1016/j.combustflame.2018.10.036",
+    "category": "Publications"
+   },
+   {
+    "title": "Impinging nonpremixed coflow methane–air flames with unity Lewis number",
+    "url": "https://doi.org/10.1016/j.proci.2016.06.193",
+    "category": "Publications"
+   },
+   {
+    "title": "Characterizing I-V Curves for Non-Premixed Methane Flames Stabilized on Different Burner Configurations",
+    "url": "https://doi.org/10.1080/00102202.2017.1331218",
+    "category": "Publications"
+   },
+   {
+    "title": "CO emission from an impinging non-premixed flame",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28989179",
+    "category": "Publications"
+   },
+   {
+    "title": "Electrical aspects of flame quenching",
+    "url": "https://doi.org/10.1016/j.proci.2012.07.007",
+    "category": "Publications"
+   },
+   {
+    "title": "Behavior of a small diffusion flame as an electrically active component in a high-voltage circuit",
+    "url": "https://doi.org/10.1016/j.combustflame.2011.06.002",
+    "category": "Publications"
+   },
+   {
+    "title": "Numerical prediction of ion current from a small methane jet flame",
+    "url": "https://doi.org/10.1016/j.combustflame.2009.02.002",
+    "category": "Publications"
+   },
+   {
+    "title": "Electric field-controlled mesoscale burners",
+    "url": "https://doi.org/10.1016/j.combustflame.2007.07.007",
+    "category": "Publications"
+   },
+   {
+    "title": "Numerical simulation of a tubular ion-driven wind generator",
+    "url": "https://doi.org/10.1016/j.elstat.2007.04.003",
+    "category": "Publications"
+   },
+   {
+    "title": "Using large electric fields to control transport in microgravity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17124145",
+    "category": "Publications"
+   },
+   {
+    "title": "Maximizing ion-driven gas flows",
+    "url": "https://doi.org/10.1016/j.elstat.2005.09.005",
+    "category": "Publications"
+   },
+   {
+    "title": "Inducing gas flow and swirl in tubes using ionic wind from corona discharges",
+    "url": "https://doi.org/10.1007/s00348-005-0062-0",
+    "category": "Publications"
+   },
+   {
+    "title": "Modeling of Elevated Pressure Diffusion Flames with Water Addition",
+    "url": "https://doi.org/10.1080/00102202.2023.2182205",
+    "category": "Publications"
+   },
+   {
+    "title": "Electric-field effects on methane coflow flames aboard the international space station (ISS): ACME E-FIELD flames",
+    "url": "https://doi.org/10.1016/j.combustflame.2022.112443",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-25",
+  "name": "BASS-II (Burning and Suppression of Solids II)",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+  "doi_url": "https://doi.org/10.60555/4qc4-de67",
+  "size": "255.77 GB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Spacecraft Fire Safety",
+  "contacts": [
+   "Paul Ferkul",
+   "Carlos Fernandez-Pello",
+   "Fletcher J. Miller",
+   "James T'ien",
+   "Subrata Bhattachjee"
+  ],
+  "publications": [
+   {
+    "title": "Microgravity Science Glovebox (MSG)",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/msg/",
+    "category": "Hardware"
+   },
+   {
+    "title": "Microgravity flammability boundary for PMMA rods in axial stagnation flow: Experimental results and energy balance analyses",
+    "url": "https://doi.org/10.1016/j.combustflame.2017.03.001",
+    "category": "Publications"
+   },
+   {
+    "title": "Temperature and CO2 fields of a downward spreading flame over thin cellulose: A comparison of experimental and computational results",
+    "url": "https://doi.org/10.1016/j.proci.2014.05.093",
+    "category": "Publications"
+   },
+   {
+    "title": "Opposed-flow flame spread: A comparison of microgravity and normal gravity experiments to establish the thermal regime",
+    "url": "https://doi.org/10.1016/j.firesaf.2015.11.011",
+    "category": "Publications"
+   },
+   {
+    "title": "The critical flow velocity for radiative extinction in opposed-flow flame spread in a microgravity environment: A comparison of experimental, computational, and theoretical results",
+    "url": "https://doi.org/10.1016/j.combustflame.2015.10.023",
+    "category": "Publications"
+   },
+   {
+    "title": "Experimental validation of a correlation capturing the boundary layer effect on spread rate in the kinetic regime of opposed-flow flame spread",
+    "url": "https://doi.org/10.1016/j.proci.2014.06.125",
+    "category": "Publications"
+   },
+   {
+    "title": "Results from on-board CSA-CP and CDM Sensor Readings during the Burning and Suppression of Solids - II (BASS-II) Experiment in the Microgravity Science Glovebox (MSG)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "category": "Publications"
+   },
+   {
+    "title": "Modeling and Analysis of Intermediate Thickness PMMA Sheets Burning in Microgravity Opposed Flow",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "category": "Publications"
+   },
+   {
+    "title": "Concurrent flame growth, spread and extinction over composite fabric samples in low speed purely forced flow in microgravity",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "category": "Publications"
+   },
+   {
+    "title": "Radiative, thermal, and kinetic regimes of opposed-flow flame spread: A comparison between experiment and theory",
+    "url": "https://doi.org/10.1016/j.proci.2016.06.025",
+    "category": "Publications"
+   },
+   {
+    "title": "Concurrent flame growth, spread, and quenching over composite fabric samples in low speed purely forced flow in microgravity",
+    "url": "https://doi.org/10.1016/j.proci.2016.06.028",
+    "category": "Publications"
+   },
+   {
+    "title": "A Study of the Effectiveness of a Narrow Channel Apparatus in Simulating Microgravity Flame Spread over Thin Fuels",
+    "url": "https://doi.org/10.2514/6.2012-3493",
+    "category": "Publications"
+   },
+   {
+    "title": "BASS-II Summary Report",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "category": "Publications"
+   },
+   {
+    "title": "Correlation of normal gravity mixed convection blowoff limits with microgravity forced flow blowoff limits",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "category": "Publications"
+   },
+   {
+    "title": "Fire in Microgravity",
+    "url": "https://doi.org/10.1511/2016.118.44",
+    "category": "Publications"
+   },
+   {
+    "title": "Microgravity Flammability of PMMA Rods in Concurrent Flow",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "category": "Publications"
+   },
+   {
+    "title": "Using a Narrow Channel Apparatus to Study Thermally-Intermediate Fuel Combustion in a Simulated 0g Environment",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "category": "Publications"
+   },
+   {
+    "title": "Burning and Suppression of Solids – II Fire Safety Investigation for the Microgravity Science Glovebox",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-26",
+  "name": "BASS (Burning and Suppression of Solids)",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+  "doi_url": "https://doi.org/10.60555/58h4-dy80",
+  "size": "152.32 GB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Spacecraft Fire Safety",
+  "contacts": [
+   "Paul Ferkul",
+   "Funiaki Takahashi",
+   "James T'ien",
+   "Sandra L. Olson"
+  ],
+  "publications": [
+   {
+    "title": "Microgravity Science Glovebox",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/msg/",
+    "category": "Hardware"
+   },
+   {
+    "title": "The Microgravity Science Glovebox as a Platform for Exploration Research on the International Space Station",
+    "url": "https://doi.org/10.2514/6.2006-941",
+    "category": "Publications"
+   },
+   {
+    "title": "Opposed-flow flame spread: A comparison of microgravity and normal gravity experiments to establish the thermal regime",
+    "url": "https://doi.org/10.1016/j.firesaf.2015.11.011",
+    "category": "Publications"
+   },
+   {
+    "title": "Simplified model for predicting difference between flammability limits of a thin material in normal gravity and microgravity environments",
+    "url": "https://doi.org/10.1016/j.proci.2014.07.017",
+    "category": "Publications"
+   },
+   {
+    "title": "A Correlation for an Effective Flow Velocity for Capturing the Boundary Layer Effect in Opposed-Flow Flame Spread over Thin Fuels",
+    "url": "https://doi.org/10.1080/00102202.2014.900056",
+    "category": "Publications"
+   },
+   {
+    "title": "Radiation signature in opposed-flow flame spread",
+    "url": "https://doi.org/10.1504/PCFD.2012.048249",
+    "category": "Publications"
+   },
+   {
+    "title": "OS24-1 The Effect of Boundary Layer on Blow-Off Extinction in Opposed-Flow Flame Spread: Results of Experiments and Simplified Analysis(invited,Scale modeling on solid combustion,OS24 Scale modeling,FLUID AND THERMODYNAMICS)",
+    "url": "https://doi.org/10.1299/jsmeatem.2015.14.289",
+    "category": "Publications"
+   },
+   {
+    "title": "Role of Gas Radiation in the Mechanism of Opposed-Flow Flame Spread in a Microgravity Environment",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "category": "Publications"
+   },
+   {
+    "title": "Thickness and Fuel Preheating Effects on Material Flammability in Microgravity from the BASS Experiment",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "category": "Publications"
+   },
+   {
+    "title": "A novel apparatus for flame spread study",
+    "url": "https://doi.org/10.1016/j.proci.2012.05.076",
+    "category": "Publications"
+   },
+   {
+    "title": "Opposed-Flow Flame Spread in a Narrow Channel Apparatus over Thin PMMA Sheets",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-59",
+  "name": "PSI-59",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-59",
+  "doi_url": "https://doi.org/10.60555/g91s-8894",
+  "size": "16.66 KB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Fluid Physics",
+  "contacts": [
+   "Mark M. Weislogel",
+   "Peter J. Canfield",
+   "Aleksander Grah",
+   "Joerg Klatte",
+   "Lauren Brown"
+  ],
+  "publications": [
+   {
+    "title": "Microgravity Science Glovebox",
+    "url": "https://ntrs.nasa.gov/api/citations/20140011634/downloads/20140011634.pdf",
+    "category": "Hardware"
+   },
+   {
+    "title": "Investigation Metadata Files",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-59",
+    "category": "Investigation Metadata Files"
+   },
+   {
+    "title": "Experimental table",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-59",
+    "category": "Experimental table"
+   },
+   {
+    "title": "The capillary channel flow experiments on the International Space Station: experiment set-up and first results",
+    "url": "https://doi.org/10.1007/s00348-013-1519-1",
+    "category": "Publications"
+   },
+   {
+    "title": "Choked flows in open capillary channels: theory, experiment and computations",
+    "url": "https://doi.org/10.1017/S0022112004001041",
+    "category": "Publications"
+   },
+   {
+    "title": "A Fast Numerical Procedure for Steady Capillary Flow in Open Channels",
+    "url": "https://doi.org/10.1007/s00707-008-0063-1",
+    "category": "Publications"
+   },
+   {
+    "title": "Gas–liquid two‐phase flow through packed beds in microgravity",
+    "url": "https://doi.org/10.1002/aic.690490303",
+    "category": "Publications"
+   },
+   {
+    "title": "The shape and stability of wall-bound and wall-edge-bound drops and bubbles",
+    "url": "https://doi.org/10.1007/BF02889516",
+    "category": "Publications"
+   },
+   {
+    "title": "Double porous screen element for gas-liquid phase separation",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-59",
+    "category": "Publications"
+   },
+   {
+    "title": "Free Surface Flows under Compensated Gravity Conditions",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-59",
+    "category": "Publications"
+   },
+   {
+    "title": "Stability limits of unsteady open capillary channel flow",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-59",
+    "category": "Publications"
+   },
+   {
+    "title": "Dynamic stability analysis for capillary channel flow: One-dimensional and three-dimensional computations and the equivalent steady state technique",
+    "url": "https://doi.org/10.1063/1.3275855",
+    "category": "Publications"
+   },
+   {
+    "title": "Transient Capillary Channel Flow Stability",
+    "url": "https://doi.org/10.1007/s12217-014-9403-z",
+    "category": "Publications"
+   },
+   {
+    "title": "Flow Rate Limitation in Open Capillary Channel Flows",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17124140",
+    "category": "Publications"
+   },
+   {
+    "title": "Flow Rate Limitation of Steady Convective Dominated Open Capillary Channel Flows Through a Groove",
+    "url": "https://doi.org/10.1007/s12217-009-9164-2",
+    "category": "Publications"
+   },
+   {
+    "title": "Dynamic Fluid Interface Experiments Aboard the International Space Station: Model Benchmarking Dataset",
+    "url": "https://doi.org/10.2514/1.47343",
+    "category": "Publications"
+   },
+   {
+    "title": "Passive phase separation of microgravity bubbly flows using conduit geometry",
+    "url": "https://doi.org/10.1016/j.ijmultiphaseflow.2014.05.011",
+    "category": "Publications"
+   },
+   {
+    "title": "TEST-CASE NO 35: FLOW RATE LIMITATION IN OPEN CAPILLARY CHANNELS (PE)",
+    "url": "https://doi.org/10.1615/MultScienTechn.v16.i1-3.330",
+    "category": "Publications"
+   },
+   {
+    "title": "Investigation of forced liquid flows in open capillary channels",
+    "url": "https://doi.org/10.1007/BF02881681",
+    "category": "Publications"
+   },
+   {
+    "title": "Flow limitation in convective dominated open capillary channel flows",
+    "url": "https://doi.org/10.1002/pamm.200610272",
+    "category": "Publications"
+   },
+   {
+    "title": "Design and performance of an experiment for the investigation of open capillary channel flows",
+    "url": "https://doi.org/10.1007/s00348-007-0274-6",
+    "category": "Publications"
+   },
+   {
+    "title": "Convective dominated flows in open capillary channels",
+    "url": "https://doi.org/10.1063/1.3379847",
+    "category": "Publications"
+   },
+   {
+    "title": "Laminar bubbly flow in an open capillary channel in microgravity",
+    "url": "https://doi.org/10.1016/j.ijmultiphaseflow.2010.05.003",
+    "category": "Publications"
+   },
+   {
+    "title": "Experimental Investigation of a Bubbly Two-Phase Flow in an Open Capillary Channel under Microgravity Conditions",
+    "url": "https://doi.org/10.1007/s12217-009-9115-y",
+    "category": "Publications"
+   },
+   {
+    "title": "The capillary flow experiments aboard the International Space Station: Status",
+    "url": "https://doi.org/10.1016/j.actaastro.2009.03.008",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-60",
+  "name": "PSI-60",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-60",
+  "doi_url": "https://doi.org/10.60555/mzjm-yv57",
+  "size": "7.56 KB",
+  "platform": null,
+  "license": "CC0-1.0",
+  "research_area": "Gaseous",
+  "contacts": [
+   "Mitchell D. Smooke",
+   "Marshall B. Long",
+   "Daniel L. Dietrich"
+  ],
+  "publications": [
+   {
+    "title": "No associated hardware",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-60",
+    "category": "Hardware"
+   },
+   {
+    "title": "Investigation Metadata Files",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-60",
+    "category": "Investigation Metadata Files"
+   },
+   {
+    "title": "A Combined Experimental and Computational Study of Soot Formation in Normal and Microgravity Conditions (2022)",
+    "url": "https://doi.org/10.1080/00102202.2022.2041621",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-62",
+  "name": "PSI-62",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-62",
+  "doi_url": "https://doi.org/10.60555/e9xp-ex83",
+  "size": "9.47 KB",
+  "platform": null,
+  "license": "CC0-1.0",
+  "research_area": "Spacecraft Fire Safety",
+  "contacts": [
+   "Paul DesJardin",
+   "David Urban"
+  ],
+  "publications": [
+   {
+    "title": "No associated hardware",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-62",
+    "category": "Hardware"
+   },
+   {
+    "title": "Investigation Metadata Files",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-62",
+    "category": "Investigation Metadata Files"
+   },
+   {
+    "title": "Microgravity flammability boundary for PMMA rods in axial stagnation flow: Experimental results and energy balance analyses (2017)",
+    "url": "https://doi.org/10.1016/j.combustflame.2017.03.001",
+    "category": "Publications"
+   },
+   {
+    "title": "Radiative flamelet generated manifolds for solid fuel flame spread in microgravity (2023)",
+    "url": "https://doi.org/10.1016/j.combustflame.2023.112939",
+    "category": "Publications"
+   },
+   {
+    "title": "Theoretical estimates of flammability bounds for thin condensed fuel diffusion flames in microgravity using detailed models of chemistry and radiation (2023)",
+    "url": "https://doi.org/10.1016/j.combustflame.2023.112910",
+    "category": "Publications"
+   },
+   {
+    "title": "Two-color pyrometry based flame to fuel surface radiative heat flux diagnostic using flamelets",
+    "url": "https://doi.org/10.1016/j.combustflame.2021.111395",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-98",
+  "name": "PSI-98",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+  "doi_url": "https://doi.org/10.60555/0t15-1z43",
+  "size": "11.41 GB",
+  "platform": "International Space Station (ISS)",
+  "license": "CC0-1.0",
+  "research_area": "Spacecraft Fire, Smoke Distribution",
+  "contacts": [
+   "David L. Urban"
+  ],
+  "publications": [
+   {
+    "title": "Saffire 1 enclosure in Cygnus",
+    "url": "https://www1.grc.nasa.gov/space/iss-research/msg/saffire/",
+    "category": "Hardware"
+   },
+   {
+    "title": "Investigation Metadata Files",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "category": "Investigation Metadata Files"
+   },
+   {
+    "title": "Engineering Documents",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "category": "Engineering Documents"
+   },
+   {
+    "title": "Raw Data",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "category": "Raw Data"
+   },
+   {
+    "title": "Science Documents",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "category": "Science Documents"
+   },
+   {
+    "title": "Experimental table",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "category": "Experimental table"
+   },
+   {
+    "title": "The Spacecraft Fire Experiment (Saffire) - Objectives, Development and Status",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "category": "Publications"
+   },
+   {
+    "title": "Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "category": "Publications"
+   },
+   {
+    "title": "Flame spread: Effects of microgravity and scale",
+    "url": "https://doi.org/10.1016/j.combustflame.2018.10.012",
+    "category": "Publications"
+   },
+   {
+    "title": "Transient flame growth and spread processes over a large solid fabric in concurrent low-speed flows in microgravity – Model versus experiment",
+    "url": "https://doi.org/10.1016/j.proci.2018.05.168",
+    "category": "Publications"
+   },
+   {
+    "title": "Fire safety in space – beyond flammability testing of small samples",
+    "url": "https://doi.org/10.1016/j.actaastro.2014.11.025",
+    "category": "Publications"
+   },
+   {
+    "title": "Operation and Development Status of the Spacecraft Fire Experiments (Saffire)",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "category": "Publications"
+   }
+  ]
+ },
+ {
+  "id": "PSI-99",
+  "name": "PSI-99",
+  "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+  "doi_url": "https://doi.org/10.60555/2chp-m469",
+  "size": "15.77 GB",
+  "platform": "Cygnus Spacecraft",
+  "license": "CC0-1.0",
+  "research_area": "Surface Combustion",
+  "contacts": [
+   "David L. Urban",
+   "Gary Ruff"
+  ],
+  "publications": [
+   {
+    "title": "Cygnus Pressurized Cargo Module",
+    "url": "https://cdn.northropgrumman.com/-/media/wp-content/uploads/Cygnus-Fact-Sheet-1.pdf",
+    "category": "Hardware"
+   },
+   {
+    "title": "SAFFIRE",
+    "url": "https://ntrs.nasa.gov/api/citations/20170000230/downloads/20170000230.pdf",
+    "category": "Hardware"
+   },
+   {
+    "title": "Investigation Metadata Files",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "category": "Investigation Metadata Files"
+   },
+   {
+    "title": "Experimental table",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "category": "Experimental table"
+   },
+   {
+    "title": "Raw Data",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "category": "Raw Data"
+   },
+   {
+    "title": "Science Documents",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "category": "Science Documents"
+   },
+   {
+    "title": "Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire), Conference: 45th International Conference on Environmental Systems ICES-2015-[293] 12-16 July 2015, Bellevue, Washington",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "category": "Publications"
+   },
+   {
+    "title": "The Spacecraft Fire Experiment (Saffire) - Objectives, Development and Status",
+    "url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "category": "Publications"
+   },
+   {
+    "title": "Flame spread: Effects of microgravity and scale",
+    "url": "https://doi.org/10.1016/j.combustflame.2018.10.012",
+    "category": "Publications"
+   },
+   {
+    "title": "Buoyancy effects on concurrent flame spread over thick PMMA",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35197652",
+    "category": "Publications"
+   },
+   {
+    "title": "Concurrent Flame Spread Over Two-Sided Thick PMMA Slabs in Microgravity",
+    "url": "https://doi.org/10.1007/s10694-019-00863-3",
+    "category": "Publications"
+   },
+   {
+    "title": "Transient flame growth and spread processes over a large solid fabric in concurrent low-speed flows in microgravity – Model versus experiment",
+    "url": "https://doi.org/10.1016/j.proci.2018.05.168",
+    "category": "Publications"
+   },
+   {
+    "title": "Evaluation of gas and particle sensors for detecting spacecraft-relevant fire emissions",
+    "url": "https://doi.org/10.1016/j.firesaf.2020.102977",
+    "category": "Publications"
+   }
+  ]
+ }
+]
